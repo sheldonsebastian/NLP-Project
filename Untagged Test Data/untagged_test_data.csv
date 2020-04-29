@@ -1,0 +1,3365 @@
+recipe_name,Step#,word,pos
+homemade vegetable soup from a can,0.0,Combine,VB
+homemade vegetable soup from a can,0.0,all,DT
+homemade vegetable soup from a can,0.0,ingredients,NNS
+homemade vegetable soup from a can,0.0,in,IN
+homemade vegetable soup from a can,0.0,large,JJ
+homemade vegetable soup from a can,0.0,pot,NN
+homemade vegetable soup from a can,0.0,.,.
+homemade vegetable soup from a can,1.0,Bring,VB
+homemade vegetable soup from a can,1.0,to,IN
+homemade vegetable soup from a can,1.0,a,DT
+homemade vegetable soup from a can,1.0,boil,NN
+homemade vegetable soup from a can,1.0,and,CC
+homemade vegetable soup from a can,1.0,simmer,VB
+homemade vegetable soup from a can,1.0,for,IN
+homemade vegetable soup from a can,1.0,3,CD
+homemade vegetable soup from a can,1.0,minutes,NNS
+homemade vegetable soup from a can,1.0,.,.
+homemade vegetable soup from a can,2.0,Serve,VB
+homemade vegetable soup from a can,2.0,.,.
+homemade vegetable soup from a can,3.0,I,PRP
+homemade vegetable soup from a can,3.0,use,VBP
+homemade vegetable soup from a can,3.0,the,DT
+homemade vegetable soup from a can,3.0,tomatoes,NNS
+homemade vegetable soup from a can,3.0,that,WDT
+homemade vegetable soup from a can,3.0,come,VBP
+homemade vegetable soup from a can,3.0,flavored,VBN
+homemade vegetable soup from a can,3.0,with,IN
+homemade vegetable soup from a can,3.0,basil,NN
+homemade vegetable soup from a can,3.0,",",","
+homemade vegetable soup from a can,3.0,oregano,NN
+homemade vegetable soup from a can,3.0,",",","
+homemade vegetable soup from a can,3.0,and,CC
+homemade vegetable soup from a can,3.0,garlic,NN
+homemade vegetable soup from a can,3.0,.,.
+homemade vegetable soup from a can,4.0,You,PRP
+homemade vegetable soup from a can,4.0,can,MD
+homemade vegetable soup from a can,4.0,substitute,VB
+homemade vegetable soup from a can,4.0,whatever,WDT
+homemade vegetable soup from a can,4.0,vegetables,NNS
+homemade vegetable soup from a can,4.0,you,PRP
+homemade vegetable soup from a can,4.0,like,VBP
+homemade vegetable soup from a can,4.0,;,:
+homemade vegetable soup from a can,4.0,if,IN
+homemade vegetable soup from a can,4.0,you,PRP
+homemade vegetable soup from a can,4.0,do,VBP
+homemade vegetable soup from a can,4.0,n't,RB
+homemade vegetable soup from a can,4.0,want,VB
+homemade vegetable soup from a can,4.0,to,TO
+homemade vegetable soup from a can,4.0,use,VB
+homemade vegetable soup from a can,4.0,the,DT
+homemade vegetable soup from a can,4.0,zucchini,NNS
+homemade vegetable soup from a can,4.0,",",","
+homemade vegetable soup from a can,4.0,add,VB
+homemade vegetable soup from a can,4.0,a,DT
+homemade vegetable soup from a can,4.0,can,NN
+homemade vegetable soup from a can,4.0,of,IN
+homemade vegetable soup from a can,4.0,tomato,NN
+homemade vegetable soup from a can,4.0,sauce,NN
+homemade vegetable soup from a can,4.0,to,TO
+homemade vegetable soup from a can,4.0,give,VB
+homemade vegetable soup from a can,4.0,it,PRP
+homemade vegetable soup from a can,4.0,some,DT
+homemade vegetable soup from a can,4.0,substance,NN
+homemade vegetable soup from a can,4.0,.,.
+how i got my family to eat spinach spinach casserole,0.0,Preheat,VB
+how i got my family to eat spinach spinach casserole,0.0,oven,NN
+how i got my family to eat spinach spinach casserole,0.0,to,IN
+how i got my family to eat spinach spinach casserole,0.0,350,CD
+how i got my family to eat spinach spinach casserole,0.0,degrees,NNS
+how i got my family to eat spinach spinach casserole,0.0,.,.
+how i got my family to eat spinach spinach casserole,1.0,Place,NN
+how i got my family to eat spinach spinach casserole,1.0,spinach,NN
+how i got my family to eat spinach spinach casserole,1.0,in,IN
+how i got my family to eat spinach spinach casserole,1.0,strainer,NN
+how i got my family to eat spinach spinach casserole,1.0,and,CC
+how i got my family to eat spinach spinach casserole,1.0,squeeze,VB
+how i got my family to eat spinach spinach casserole,1.0,all,DT
+how i got my family to eat spinach spinach casserole,1.0,extra,JJ
+how i got my family to eat spinach spinach casserole,1.0,liquid,NN
+how i got my family to eat spinach spinach casserole,1.0,from,IN
+how i got my family to eat spinach spinach casserole,1.0,it,PRP
+how i got my family to eat spinach spinach casserole,1.0,.,.
+how i got my family to eat spinach spinach casserole,2.0,In,IN
+how i got my family to eat spinach spinach casserole,2.0,a,DT
+how i got my family to eat spinach spinach casserole,2.0,large,JJ
+how i got my family to eat spinach spinach casserole,2.0,bowl,NN
+how i got my family to eat spinach spinach casserole,2.0,",",","
+how i got my family to eat spinach spinach casserole,2.0,combine,VB
+how i got my family to eat spinach spinach casserole,2.0,spinach,NN
+how i got my family to eat spinach spinach casserole,2.0,with,IN
+how i got my family to eat spinach spinach casserole,2.0,the,DT
+how i got my family to eat spinach spinach casserole,2.0,rest,NN
+how i got my family to eat spinach spinach casserole,2.0,of,IN
+how i got my family to eat spinach spinach casserole,2.0,ingredients,NNS
+how i got my family to eat spinach spinach casserole,2.0,",",","
+how i got my family to eat spinach spinach casserole,2.0,except,IN
+how i got my family to eat spinach spinach casserole,2.0,croutons,NNS
+how i got my family to eat spinach spinach casserole,2.0,",",","
+how i got my family to eat spinach spinach casserole,2.0,and,CC
+how i got my family to eat spinach spinach casserole,2.0,combine,VB
+how i got my family to eat spinach spinach casserole,2.0,well,RB
+how i got my family to eat spinach spinach casserole,2.0,.,.
+how i got my family to eat spinach spinach casserole,3.0,Pour,VB
+how i got my family to eat spinach spinach casserole,3.0,into,IN
+how i got my family to eat spinach spinach casserole,3.0,a,DT
+how i got my family to eat spinach spinach casserole,3.0,2,CD
+how i got my family to eat spinach spinach casserole,3.0,quart,NN
+how i got my family to eat spinach spinach casserole,3.0,casserole,NN
+how i got my family to eat spinach spinach casserole,3.0,dish,NN
+how i got my family to eat spinach spinach casserole,3.0,and,CC
+how i got my family to eat spinach spinach casserole,3.0,top,NN
+how i got my family to eat spinach spinach casserole,3.0,with,IN
+how i got my family to eat spinach spinach casserole,3.0,croutons,NNS
+how i got my family to eat spinach spinach casserole,3.0,.,.
+how i got my family to eat spinach spinach casserole,4.0,Bake,VB
+how i got my family to eat spinach spinach casserole,4.0,for,IN
+how i got my family to eat spinach spinach casserole,4.0,35,CD
+how i got my family to eat spinach spinach casserole,4.0,to,TO
+how i got my family to eat spinach spinach casserole,4.0,40,CD
+how i got my family to eat spinach spinach casserole,4.0,minutes,NNS
+how i got my family to eat spinach spinach casserole,4.0,",",","
+how i got my family to eat spinach spinach casserole,4.0,or,CC
+how i got my family to eat spinach spinach casserole,4.0,until,IN
+how i got my family to eat spinach spinach casserole,4.0,bubbling,VBG
+how i got my family to eat spinach spinach casserole,4.0,around,IN
+how i got my family to eat spinach spinach casserole,4.0,edges,NNS
+how i got my family to eat spinach spinach casserole,4.0,.,.
+i can t believe it s low fat creamy potato salad,0.0,Cut,VB
+i can t believe it s low fat creamy potato salad,0.0,potatoes,NNS
+i can t believe it s low fat creamy potato salad,0.0,into,IN
+i can t believe it s low fat creamy potato salad,0.0,1/2,CD
+i can t believe it s low fat creamy potato salad,0.0,"""",``
+i can t believe it s low fat creamy potato salad,0.0,pieces,NNS
+i can t believe it s low fat creamy potato salad,0.0,;,:
+i can t believe it s low fat creamy potato salad,0.0,place,NN
+i can t believe it s low fat creamy potato salad,0.0,in,IN
+i can t believe it s low fat creamy potato salad,0.0,medium,JJ
+i can t believe it s low fat creamy potato salad,0.0,saucepan,NN
+i can t believe it s low fat creamy potato salad,0.0,.,.
+i can t believe it s low fat creamy potato salad,1.0,Add,VB
+i can t believe it s low fat creamy potato salad,1.0,water,NN
+i can t believe it s low fat creamy potato salad,1.0,to,TO
+i can t believe it s low fat creamy potato salad,1.0,cover,VB
+i can t believe it s low fat creamy potato salad,1.0,.,.
+i can t believe it s low fat creamy potato salad,2.0,Bring,VB
+i can t believe it s low fat creamy potato salad,2.0,to,IN
+i can t believe it s low fat creamy potato salad,2.0,a,DT
+i can t believe it s low fat creamy potato salad,2.0,boil,NN
+i can t believe it s low fat creamy potato salad,2.0,;,:
+i can t believe it s low fat creamy potato salad,2.0,cover,VB
+i can t believe it s low fat creamy potato salad,2.0,",",","
+i can t believe it s low fat creamy potato salad,2.0,reduce,VB
+i can t believe it s low fat creamy potato salad,2.0,heat,NN
+i can t believe it s low fat creamy potato salad,2.0,",",","
+i can t believe it s low fat creamy potato salad,2.0,and,CC
+i can t believe it s low fat creamy potato salad,2.0,simmer,VB
+i can t believe it s low fat creamy potato salad,2.0,15,CD
+i can t believe it s low fat creamy potato salad,2.0,-,SYM
+i can t believe it s low fat creamy potato salad,2.0,20,CD
+i can t believe it s low fat creamy potato salad,2.0,minutes,NNS
+i can t believe it s low fat creamy potato salad,2.0,or,CC
+i can t believe it s low fat creamy potato salad,2.0,until,IN
+i can t believe it s low fat creamy potato salad,2.0,tender,NN
+i can t believe it s low fat creamy potato salad,2.0,.,.
+i can t believe it s low fat creamy potato salad,3.0,Drain,VB
+i can t believe it s low fat creamy potato salad,3.0,and,CC
+i can t believe it s low fat creamy potato salad,3.0,cool,JJ
+i can t believe it s low fat creamy potato salad,3.0,.,.
+i can t believe it s low fat creamy potato salad,4.0,Combine,VB
+i can t believe it s low fat creamy potato salad,4.0,potato,NN
+i can t believe it s low fat creamy potato salad,4.0,",",","
+i can t believe it s low fat creamy potato salad,4.0,chopped,VBN
+i can t believe it s low fat creamy potato salad,4.0,green,JJ
+i can t believe it s low fat creamy potato salad,4.0,onion,NN
+i can t believe it s low fat creamy potato salad,4.0,",",","
+i can t believe it s low fat creamy potato salad,4.0,and,CC
+i can t believe it s low fat creamy potato salad,4.0,pimemto,NNP
+i can t believe it s low fat creamy potato salad,4.0,in,IN
+i can t believe it s low fat creamy potato salad,4.0,a,DT
+i can t believe it s low fat creamy potato salad,4.0,large,JJ
+i can t believe it s low fat creamy potato salad,4.0,bowl,NN
+i can t believe it s low fat creamy potato salad,4.0,;,:
+i can t believe it s low fat creamy potato salad,4.0,toss,VB
+i can t believe it s low fat creamy potato salad,4.0,gently,RB
+i can t believe it s low fat creamy potato salad,4.0,.,.
+i can t believe it s low fat creamy potato salad,5.0,Combine,VB
+i can t believe it s low fat creamy potato salad,5.0,mayonnaise,NN
+i can t believe it s low fat creamy potato salad,5.0,and,CC
+i can t believe it s low fat creamy potato salad,5.0,next,JJ
+i can t believe it s low fat creamy potato salad,5.0,9,CD
+i can t believe it s low fat creamy potato salad,5.0,ingredients,NNS
+i can t believe it s low fat creamy potato salad,5.0,;,:
+i can t believe it s low fat creamy potato salad,5.0,stir,VB
+i can t believe it s low fat creamy potato salad,5.0,well,RB
+i can t believe it s low fat creamy potato salad,5.0,.,.
+i can t believe it s low fat creamy potato salad,6.0,Add,VB
+i can t believe it s low fat creamy potato salad,6.0,to,IN
+i can t believe it s low fat creamy potato salad,6.0,potato,NN
+i can t believe it s low fat creamy potato salad,6.0,mixture,NN
+i can t believe it s low fat creamy potato salad,6.0,",",","
+i can t believe it s low fat creamy potato salad,6.0,tossing,VBG
+i can t believe it s low fat creamy potato salad,6.0,gently,RB
+i can t believe it s low fat creamy potato salad,6.0,to,IN
+i can t believe it s low fat creamy potato salad,6.0,coat,NN
+i can t believe it s low fat creamy potato salad,6.0,.,.
+i can t believe it s low fat creamy potato salad,7.0,Cover,NN
+i can t believe it s low fat creamy potato salad,7.0,and,CC
+i can t believe it s low fat creamy potato salad,7.0,chill,VB
+i can t believe it s low fat creamy potato salad,7.0,.,.
+i can t believe it s spinach,0.0,Combine,VB
+i can t believe it s spinach,0.0,all,DT
+i can t believe it s spinach,0.0,ingredients,NNS
+i can t believe it s spinach,0.0,in,IN
+i can t believe it s spinach,0.0,a,DT
+i can t believe it s spinach,0.0,large,JJ
+i can t believe it s spinach,0.0,bowl,NN
+i can t believe it s spinach,0.0,and,CC
+i can t believe it s spinach,0.0,mix,VB
+i can t believe it s spinach,0.0,well,RB
+i can t believe it s spinach,0.0,.,.
+i can t believe it s spinach,1.0,Shape,VB
+i can t believe it s spinach,1.0,into,IN
+i can t believe it s spinach,1.0,one,CD
+i can t believe it s spinach,1.0,-,HYPH
+i can t believe it s spinach,1.0,inch,NN
+i can t believe it s spinach,1.0,balls,NNS
+i can t believe it s spinach,1.0,.,.
+i can t believe it s spinach,2.0,Cover,VB
+i can t believe it s spinach,2.0,and,CC
+i can t believe it s spinach,2.0,refrigerate,VB
+i can t believe it s spinach,2.0,or,CC
+i can t believe it s spinach,2.0,freeze,VB
+i can t believe it s spinach,2.0,until,IN
+i can t believe it s spinach,2.0,ready,JJ
+i can t believe it s spinach,2.0,to,TO
+i can t believe it s spinach,2.0,bake,VB
+i can t believe it s spinach,2.0,.,.
+i can t believe it s spinach,3.0,Preheat,VB
+i can t believe it s spinach,3.0,oven,NN
+i can t believe it s spinach,3.0,to,IN
+i can t believe it s spinach,3.0,350,CD
+i can t believe it s spinach,3.0,degrees,NNS
+i can t believe it s spinach,3.0,.,.
+i can t believe it s spinach,4.0,Place,NN
+i can t believe it s spinach,4.0,on,IN
+i can t believe it s spinach,4.0,ungreased,JJ
+i can t believe it s spinach,4.0,baking,NN
+i can t believe it s spinach,4.0,sheet,NN
+i can t believe it s spinach,4.0,and,CC
+i can t believe it s spinach,4.0,bake,VB
+i can t believe it s spinach,4.0,until,IN
+i can t believe it s spinach,4.0,light,JJ
+i can t believe it s spinach,4.0,brown,NNP
+i can t believe it s spinach,4.0,(,-LRB-
+i can t believe it s spinach,4.0,about,RB
+i can t believe it s spinach,4.0,10,CD
+i can t believe it s spinach,4.0,to,TO
+i can t believe it s spinach,4.0,15,CD
+i can t believe it s spinach,4.0,minutes,NNS
+i can t believe it s spinach,4.0,),-RRB-
+i can t believe it s spinach,4.0,.,.
+i don t feel like cooking tonight casserole,0.0,Brown,JJ
+i don t feel like cooking tonight casserole,0.0,onion,NN
+i don t feel like cooking tonight casserole,0.0,and,CC
+i don t feel like cooking tonight casserole,0.0,meat,NN
+i don t feel like cooking tonight casserole,0.0,in,IN
+i don t feel like cooking tonight casserole,0.0,the,DT
+i don t feel like cooking tonight casserole,0.0,oil,NN
+i don t feel like cooking tonight casserole,0.0,",",","
+i don t feel like cooking tonight casserole,0.0,drain,VB
+i don t feel like cooking tonight casserole,0.0,any,DT
+i don t feel like cooking tonight casserole,0.0,excess,JJ
+i don t feel like cooking tonight casserole,0.0,moisture,NN
+i don t feel like cooking tonight casserole,0.0,.,.
+i don t feel like cooking tonight casserole,1.0,Remove,VB
+i don t feel like cooking tonight casserole,1.0,from,IN
+i don t feel like cooking tonight casserole,1.0,heat,NN
+i don t feel like cooking tonight casserole,1.0,and,CC
+i don t feel like cooking tonight casserole,1.0,add,VB
+i don t feel like cooking tonight casserole,1.0,both,DT
+i don t feel like cooking tonight casserole,1.0,cans,NNS
+i don t feel like cooking tonight casserole,1.0,of,IN
+i don t feel like cooking tonight casserole,1.0,soup,NN
+i don t feel like cooking tonight casserole,1.0,and,CC
+i don t feel like cooking tonight casserole,1.0,the,DT
+i don t feel like cooking tonight casserole,1.0,veggies,NNS
+i don t feel like cooking tonight casserole,1.0,of,IN
+i don t feel like cooking tonight casserole,1.0,your,PRP$
+i don t feel like cooking tonight casserole,1.0,choice,NN
+i don t feel like cooking tonight casserole,1.0,and,CC
+i don t feel like cooking tonight casserole,1.0,stir,NN
+i don t feel like cooking tonight casserole,1.0,.,.
+i don t feel like cooking tonight casserole,2.0,Salt,NN
+i don t feel like cooking tonight casserole,2.0,and,CC
+i don t feel like cooking tonight casserole,2.0,pepper,NN
+i don t feel like cooking tonight casserole,2.0,to,TO
+i don t feel like cooking tonight casserole,2.0,taste,VB
+i don t feel like cooking tonight casserole,2.0,.,.
+i don t feel like cooking tonight casserole,3.0,Pour,VB
+i don t feel like cooking tonight casserole,3.0,mixture,NN
+i don t feel like cooking tonight casserole,3.0,into,IN
+i don t feel like cooking tonight casserole,3.0,a,DT
+i don t feel like cooking tonight casserole,3.0,greased,JJ
+i don t feel like cooking tonight casserole,3.0,9x9,CD
+i don t feel like cooking tonight casserole,3.0,inch,NN
+i don t feel like cooking tonight casserole,3.0,baking,NN
+i don t feel like cooking tonight casserole,3.0,pan,NN
+i don t feel like cooking tonight casserole,3.0,.,.
+i don t feel like cooking tonight casserole,4.0,Spoon,VB
+i don t feel like cooking tonight casserole,4.0,the,DT
+i don t feel like cooking tonight casserole,4.0,prepared,JJ
+i don t feel like cooking tonight casserole,4.0,cornbread,NN
+i don t feel like cooking tonight casserole,4.0,mix,NN
+i don t feel like cooking tonight casserole,4.0,over,IN
+i don t feel like cooking tonight casserole,4.0,the,DT
+i don t feel like cooking tonight casserole,4.0,top,NN
+i don t feel like cooking tonight casserole,4.0,and,CC
+i don t feel like cooking tonight casserole,4.0,spread,VBD
+i don t feel like cooking tonight casserole,4.0,even,RB
+i don t feel like cooking tonight casserole,4.0,.,.
+i don t feel like cooking tonight casserole,5.0,Bake,VB
+i don t feel like cooking tonight casserole,5.0,in,IN
+i don t feel like cooking tonight casserole,5.0,a,DT
+i don t feel like cooking tonight casserole,5.0,preheated,JJ
+i don t feel like cooking tonight casserole,5.0,350,CD
+i don t feel like cooking tonight casserole,5.0,degree,NN
+i don t feel like cooking tonight casserole,5.0,oven,NN
+i don t feel like cooking tonight casserole,5.0,for,IN
+i don t feel like cooking tonight casserole,5.0,35,CD
+i don t feel like cooking tonight casserole,5.0,-,SYM
+i don t feel like cooking tonight casserole,5.0,45,CD
+i don t feel like cooking tonight casserole,5.0,minutes,NNS
+i don t feel like cooking tonight casserole,5.0,",",","
+i don t feel like cooking tonight casserole,5.0,or,CC
+i don t feel like cooking tonight casserole,5.0,until,IN
+i don t feel like cooking tonight casserole,5.0,cornbread,NN
+i don t feel like cooking tonight casserole,5.0,is,VBZ
+i don t feel like cooking tonight casserole,5.0,done,VBN
+i don t feel like cooking tonight casserole,5.0,.,.
+i stole the idea from mirj sesame noodles,0.0,In,IN
+i stole the idea from mirj sesame noodles,0.0,a,DT
+i stole the idea from mirj sesame noodles,0.0,large,JJ
+i stole the idea from mirj sesame noodles,0.0,pot,NN
+i stole the idea from mirj sesame noodles,0.0,",",","
+i stole the idea from mirj sesame noodles,0.0,cook,VB
+i stole the idea from mirj sesame noodles,0.0,your,PRP$
+i stole the idea from mirj sesame noodles,0.0,angel,NN
+i stole the idea from mirj sesame noodles,0.0,hair,NN
+i stole the idea from mirj sesame noodles,0.0,pasta,NN
+i stole the idea from mirj sesame noodles,0.0,until,IN
+i stole the idea from mirj sesame noodles,0.0,almost,RB
+i stole the idea from mirj sesame noodles,0.0,al,NNP
+i stole the idea from mirj sesame noodles,0.0,dente,NNP
+i stole the idea from mirj sesame noodles,0.0,;,:
+i stole the idea from mirj sesame noodles,0.0,drain,VB
+i stole the idea from mirj sesame noodles,0.0,well,RB
+i stole the idea from mirj sesame noodles,0.0,",",","
+i stole the idea from mirj sesame noodles,0.0,put,VBN
+i stole the idea from mirj sesame noodles,0.0,in,IN
+i stole the idea from mirj sesame noodles,0.0,a,DT
+i stole the idea from mirj sesame noodles,0.0,bowl,NN
+i stole the idea from mirj sesame noodles,0.0,and,CC
+i stole the idea from mirj sesame noodles,0.0,set,VBN
+i stole the idea from mirj sesame noodles,0.0,aside,RB
+i stole the idea from mirj sesame noodles,0.0,.,.
+i stole the idea from mirj sesame noodles,1.0,In,IN
+i stole the idea from mirj sesame noodles,1.0,a,DT
+i stole the idea from mirj sesame noodles,1.0,small,JJ
+i stole the idea from mirj sesame noodles,1.0,tupperware,NN
+i stole the idea from mirj sesame noodles,1.0,container,NN
+i stole the idea from mirj sesame noodles,1.0,with,IN
+i stole the idea from mirj sesame noodles,1.0,a,DT
+i stole the idea from mirj sesame noodles,1.0,lid,NN
+i stole the idea from mirj sesame noodles,1.0,",",","
+i stole the idea from mirj sesame noodles,1.0,mix,VB
+i stole the idea from mirj sesame noodles,1.0,sesame,NN
+i stole the idea from mirj sesame noodles,1.0,oil,NN
+i stole the idea from mirj sesame noodles,1.0,",",","
+i stole the idea from mirj sesame noodles,1.0,soy,NN
+i stole the idea from mirj sesame noodles,1.0,sauce,NN
+i stole the idea from mirj sesame noodles,1.0,",",","
+i stole the idea from mirj sesame noodles,1.0,honey,NN
+i stole the idea from mirj sesame noodles,1.0,",",","
+i stole the idea from mirj sesame noodles,1.0,garlic,NN
+i stole the idea from mirj sesame noodles,1.0,and,CC
+i stole the idea from mirj sesame noodles,1.0,sesame,NN
+i stole the idea from mirj sesame noodles,1.0,seeds,NNS
+i stole the idea from mirj sesame noodles,1.0,.,.
+i stole the idea from mirj sesame noodles,2.0,Put,VB
+i stole the idea from mirj sesame noodles,2.0,the,DT
+i stole the idea from mirj sesame noodles,2.0,lid,NN
+i stole the idea from mirj sesame noodles,2.0,on,IN
+i stole the idea from mirj sesame noodles,2.0,the,DT
+i stole the idea from mirj sesame noodles,2.0,container,NN
+i stole the idea from mirj sesame noodles,2.0,and,CC
+i stole the idea from mirj sesame noodles,2.0,shake,VB
+i stole the idea from mirj sesame noodles,2.0,",",","
+i stole the idea from mirj sesame noodles,2.0,shake,VBP
+i stole the idea from mirj sesame noodles,2.0,",",","
+i stole the idea from mirj sesame noodles,2.0,shake,VBP
+i stole the idea from mirj sesame noodles,2.0,it,PRP
+i stole the idea from mirj sesame noodles,2.0,like,IN
+i stole the idea from mirj sesame noodles,2.0,a,DT
+i stole the idea from mirj sesame noodles,2.0,polaroid,NNP
+i stole the idea from mirj sesame noodles,2.0,picture,NN
+i stole the idea from mirj sesame noodles,2.0,.,.
+i stole the idea from mirj sesame noodles,3.0,Pour,VB
+i stole the idea from mirj sesame noodles,3.0,the,DT
+i stole the idea from mirj sesame noodles,3.0,sauce,NN
+i stole the idea from mirj sesame noodles,3.0,over,IN
+i stole the idea from mirj sesame noodles,3.0,the,DT
+i stole the idea from mirj sesame noodles,3.0,angel,NN
+i stole the idea from mirj sesame noodles,3.0,hair,NN
+i stole the idea from mirj sesame noodles,3.0,and,CC
+i stole the idea from mirj sesame noodles,3.0,toss,VB
+i stole the idea from mirj sesame noodles,3.0,well,RB
+i stole the idea from mirj sesame noodles,3.0,;,:
+i stole the idea from mirj sesame noodles,3.0,the,DT
+i stole the idea from mirj sesame noodles,3.0,heat,NN
+i stole the idea from mirj sesame noodles,3.0,of,IN
+i stole the idea from mirj sesame noodles,3.0,the,DT
+i stole the idea from mirj sesame noodles,3.0,pasta,NN
+i stole the idea from mirj sesame noodles,3.0,will,MD
+i stole the idea from mirj sesame noodles,3.0,cook,VB
+i stole the idea from mirj sesame noodles,3.0,the,DT
+i stole the idea from mirj sesame noodles,3.0,garlic,NN
+i stole the idea from mirj sesame noodles,3.0,a,DT
+i stole the idea from mirj sesame noodles,3.0,bit,NN
+i stole the idea from mirj sesame noodles,3.0,so,IN
+i stole the idea from mirj sesame noodles,3.0,it,PRP
+i stole the idea from mirj sesame noodles,3.0,wo,MD
+i stole the idea from mirj sesame noodles,3.0,n't,RB
+i stole the idea from mirj sesame noodles,3.0,be,VB
+i stole the idea from mirj sesame noodles,3.0,totally,RB
+i stole the idea from mirj sesame noodles,3.0,raw,JJ
+i stole the idea from mirj sesame noodles,3.0,.,.
+i stole the idea from mirj sesame noodles,4.0,Mix,VB
+i stole the idea from mirj sesame noodles,4.0,in,IN
+i stole the idea from mirj sesame noodles,4.0,the,DT
+i stole the idea from mirj sesame noodles,4.0,green,JJ
+i stole the idea from mirj sesame noodles,4.0,onions,NNS
+i stole the idea from mirj sesame noodles,4.0,and,CC
+i stole the idea from mirj sesame noodles,4.0,stir,VB
+i stole the idea from mirj sesame noodles,4.0,fry,VB
+i stole the idea from mirj sesame noodles,4.0,veggies,NNS
+i stole the idea from mirj sesame noodles,4.0,.,.
+i stole the idea from mirj sesame noodles,5.0,Serve,VB
+i stole the idea from mirj sesame noodles,5.0,.,.
+i yam what i yam two muffins,0.0,Preheat,VB
+i yam what i yam two muffins,0.0,oven,NN
+i yam what i yam two muffins,0.0,to,IN
+i yam what i yam two muffins,0.0,375,CD
+i yam what i yam two muffins,0.0,degrees,NNS
+i yam what i yam two muffins,0.0,.,.
+i yam what i yam two muffins,1.0,Add,VB
+i yam what i yam two muffins,1.0,the,DT
+i yam what i yam two muffins,1.0,brown,JJ
+i yam what i yam two muffins,1.0,sugar,NN
+i yam what i yam two muffins,1.0,",",","
+i yam what i yam two muffins,1.0,flour,NN
+i yam what i yam two muffins,1.0,",",","
+i yam what i yam two muffins,1.0,cinnamon,NN
+i yam what i yam two muffins,1.0,to,IN
+i yam what i yam two muffins,1.0,a,DT
+i yam what i yam two muffins,1.0,small,JJ
+i yam what i yam two muffins,1.0,bowl,NN
+i yam what i yam two muffins,1.0,and,CC
+i yam what i yam two muffins,1.0,cut,VBN
+i yam what i yam two muffins,1.0,in,IN
+i yam what i yam two muffins,1.0,softened,JJ
+i yam what i yam two muffins,1.0,butter,NN
+i yam what i yam two muffins,1.0,.,.
+i yam what i yam two muffins,2.0,When,WRB
+i yam what i yam two muffins,2.0,mixture,NN
+i yam what i yam two muffins,2.0,is,VBZ
+i yam what i yam two muffins,2.0,well,RB
+i yam what i yam two muffins,2.0,mixed,JJ
+i yam what i yam two muffins,2.0,stir,NN
+i yam what i yam two muffins,2.0,in,IN
+i yam what i yam two muffins,2.0,chopped,JJ
+i yam what i yam two muffins,2.0,pecans,NNS
+i yam what i yam two muffins,2.0,;,:
+i yam what i yam two muffins,2.0,set,VBN
+i yam what i yam two muffins,2.0,aside,RB
+i yam what i yam two muffins,2.0,.,.
+i yam what i yam two muffins,3.0,Spray,NNP
+i yam what i yam two muffins,3.0,a,DT
+i yam what i yam two muffins,3.0,12-muffin,JJ
+i yam what i yam two muffins,3.0,tin,NN
+i yam what i yam two muffins,3.0,with,IN
+i yam what i yam two muffins,3.0,non,JJ
+i yam what i yam two muffins,3.0,-,JJ
+i yam what i yam two muffins,3.0,stick,JJ
+i yam what i yam two muffins,3.0,cooking,NN
+i yam what i yam two muffins,3.0,spray,NN
+i yam what i yam two muffins,3.0,and,CC
+i yam what i yam two muffins,3.0,set,VBD
+i yam what i yam two muffins,3.0,aside,RB
+i yam what i yam two muffins,3.0,.,.
+i yam what i yam two muffins,4.0,Combine,VB
+i yam what i yam two muffins,4.0,the,DT
+i yam what i yam two muffins,4.0,flours,NNS
+i yam what i yam two muffins,4.0,",",","
+i yam what i yam two muffins,4.0,cocoa,NN
+i yam what i yam two muffins,4.0,",",","
+i yam what i yam two muffins,4.0,baking,NN
+i yam what i yam two muffins,4.0,powder,NN
+i yam what i yam two muffins,4.0,",",","
+i yam what i yam two muffins,4.0,cinnamon,NN
+i yam what i yam two muffins,4.0,",",","
+i yam what i yam two muffins,4.0,cloves,NNS
+i yam what i yam two muffins,4.0,",",","
+i yam what i yam two muffins,4.0,baking,NN
+i yam what i yam two muffins,4.0,soda,NN
+i yam what i yam two muffins,4.0,",",","
+i yam what i yam two muffins,4.0,and,CC
+i yam what i yam two muffins,4.0,salt,NN
+i yam what i yam two muffins,4.0,.,.
+i yam what i yam two muffins,5.0,Lightly,RB
+i yam what i yam two muffins,5.0,beat,VB
+i yam what i yam two muffins,5.0,eggs,NNS
+i yam what i yam two muffins,5.0,with,IN
+i yam what i yam two muffins,5.0,honey,NN
+i yam what i yam two muffins,5.0,",",","
+i yam what i yam two muffins,5.0,sugar,NN
+i yam what i yam two muffins,5.0,",",","
+i yam what i yam two muffins,5.0,oil,NN
+i yam what i yam two muffins,5.0,",",","
+i yam what i yam two muffins,5.0,mashed,VBN
+i yam what i yam two muffins,5.0,yams,NNS
+i yam what i yam two muffins,5.0,and,CC
+i yam what i yam two muffins,5.0,orange,JJ
+i yam what i yam two muffins,5.0,juice,NN
+i yam what i yam two muffins,5.0,.,.
+i yam what i yam two muffins,6.0,Add,VB
+i yam what i yam two muffins,6.0,the,DT
+i yam what i yam two muffins,6.0,egg,NN
+i yam what i yam two muffins,6.0,mixture,NN
+i yam what i yam two muffins,6.0,and,CC
+i yam what i yam two muffins,6.0,buttermilk,NN
+i yam what i yam two muffins,6.0,alternately,RB
+i yam what i yam two muffins,6.0,to,IN
+i yam what i yam two muffins,6.0,the,DT
+i yam what i yam two muffins,6.0,dry,JJ
+i yam what i yam two muffins,6.0,ingredients,NNS
+i yam what i yam two muffins,6.0,",",","
+i yam what i yam two muffins,6.0,stir,VB
+i yam what i yam two muffins,6.0,until,IN
+i yam what i yam two muffins,6.0,well,RB
+i yam what i yam two muffins,6.0,blended,VBN
+i yam what i yam two muffins,6.0,.,.
+i yam what i yam two muffins,7.0,Add,VB
+i yam what i yam two muffins,7.0,orange,NN
+i yam what i yam two muffins,7.0,peel,NN
+i yam what i yam two muffins,7.0,to,TO
+i yam what i yam two muffins,7.0,batter,VB
+i yam what i yam two muffins,7.0,mixing,VBG
+i yam what i yam two muffins,7.0,well,RB
+i yam what i yam two muffins,7.0,.,.
+i yam what i yam two muffins,8.0,Spoon,NN
+i yam what i yam two muffins,8.0,batter,NN
+i yam what i yam two muffins,8.0,into,IN
+i yam what i yam two muffins,8.0,prepared,VBN
+i yam what i yam two muffins,8.0,muffin,NN
+i yam what i yam two muffins,8.0,tins,NNS
+i yam what i yam two muffins,8.0,",",","
+i yam what i yam two muffins,8.0,sprinkle,VB
+i yam what i yam two muffins,8.0,lightly,RB
+i yam what i yam two muffins,8.0,with,IN
+i yam what i yam two muffins,8.0,strussel,NNP
+i yam what i yam two muffins,8.0,topping,NN
+i yam what i yam two muffins,8.0,and,CC
+i yam what i yam two muffins,8.0,bake,VBP
+i yam what i yam two muffins,8.0,in,IN
+i yam what i yam two muffins,8.0,preheated,JJ
+i yam what i yam two muffins,8.0,oven,NN
+i yam what i yam two muffins,8.0,for,IN
+i yam what i yam two muffins,8.0,15,CD
+i yam what i yam two muffins,8.0,to,TO
+i yam what i yam two muffins,8.0,20,CD
+i yam what i yam two muffins,8.0,minutes,NNS
+i yam what i yam two muffins,8.0,.,.
+i yam what i yam muffins,0.0,Preheat,VB
+i yam what i yam muffins,0.0,oven,NN
+i yam what i yam muffins,0.0,to,IN
+i yam what i yam muffins,0.0,375,CD
+i yam what i yam muffins,0.0,degrees,NNS
+i yam what i yam muffins,0.0,.,.
+i yam what i yam muffins,1.0,Spray,NN
+i yam what i yam muffins,1.0,muffin,NN
+i yam what i yam muffins,1.0,tin,NN
+i yam what i yam muffins,1.0,with,IN
+i yam what i yam muffins,1.0,non,JJ
+i yam what i yam muffins,1.0,-,JJ
+i yam what i yam muffins,1.0,stick,JJ
+i yam what i yam muffins,1.0,cooking,NN
+i yam what i yam muffins,1.0,spray,NN
+i yam what i yam muffins,1.0,and,CC
+i yam what i yam muffins,1.0,set,VBD
+i yam what i yam muffins,1.0,aside,RB
+i yam what i yam muffins,1.0,.,.
+i yam what i yam muffins,2.0,Place,VB
+i yam what i yam muffins,2.0,the,DT
+i yam what i yam muffins,2.0,raisins,NNS
+i yam what i yam muffins,2.0,in,IN
+i yam what i yam muffins,2.0,a,DT
+i yam what i yam muffins,2.0,small,JJ
+i yam what i yam muffins,2.0,bowl,NN
+i yam what i yam muffins,2.0,and,CC
+i yam what i yam muffins,2.0,pour,VB
+i yam what i yam muffins,2.0,the,DT
+i yam what i yam muffins,2.0,1/4,CD
+i yam what i yam muffins,2.0,cup,NN
+i yam what i yam muffins,2.0,boiling,NN
+i yam what i yam muffins,2.0,water,NN
+i yam what i yam muffins,2.0,over,IN
+i yam what i yam muffins,2.0,them,PRP
+i yam what i yam muffins,2.0,.,.
+i yam what i yam muffins,3.0,Cover,VB
+i yam what i yam muffins,3.0,and,CC
+i yam what i yam muffins,3.0,set,VB
+i yam what i yam muffins,3.0,aside,RB
+i yam what i yam muffins,3.0,while,IN
+i yam what i yam muffins,3.0,preparing,VBG
+i yam what i yam muffins,3.0,batter,NN
+i yam what i yam muffins,3.0,.,.
+i yam what i yam muffins,4.0,Combine,VB
+i yam what i yam muffins,4.0,the,DT
+i yam what i yam muffins,4.0,flours,NNS
+i yam what i yam muffins,4.0,",",","
+i yam what i yam muffins,4.0,cocoa,NN
+i yam what i yam muffins,4.0,",",","
+i yam what i yam muffins,4.0,baking,NN
+i yam what i yam muffins,4.0,powder,NN
+i yam what i yam muffins,4.0,",",","
+i yam what i yam muffins,4.0,cinnamon,NN
+i yam what i yam muffins,4.0,",",","
+i yam what i yam muffins,4.0,cloves,NNS
+i yam what i yam muffins,4.0,",",","
+i yam what i yam muffins,4.0,baking,NN
+i yam what i yam muffins,4.0,soda,NN
+i yam what i yam muffins,4.0,",",","
+i yam what i yam muffins,4.0,and,CC
+i yam what i yam muffins,4.0,salt,NN
+i yam what i yam muffins,4.0,.,.
+i yam what i yam muffins,5.0,Lightly,RB
+i yam what i yam muffins,5.0,beat,VB
+i yam what i yam muffins,5.0,eggs,NNS
+i yam what i yam muffins,5.0,with,IN
+i yam what i yam muffins,5.0,sorghum,NN
+i yam what i yam muffins,5.0,",",","
+i yam what i yam muffins,5.0,oil,NN
+i yam what i yam muffins,5.0,",",","
+i yam what i yam muffins,5.0,mashed,VBN
+i yam what i yam muffins,5.0,yams,NNS
+i yam what i yam muffins,5.0,and,CC
+i yam what i yam muffins,5.0,orange,JJ
+i yam what i yam muffins,5.0,juice,NN
+i yam what i yam muffins,5.0,.,.
+i yam what i yam muffins,6.0,Add,VB
+i yam what i yam muffins,6.0,the,DT
+i yam what i yam muffins,6.0,egg,NN
+i yam what i yam muffins,6.0,mixture,NN
+i yam what i yam muffins,6.0,and,CC
+i yam what i yam muffins,6.0,buttermilk,NN
+i yam what i yam muffins,6.0,alternately,RB
+i yam what i yam muffins,6.0,to,IN
+i yam what i yam muffins,6.0,the,DT
+i yam what i yam muffins,6.0,dry,JJ
+i yam what i yam muffins,6.0,ingredients,NNS
+i yam what i yam muffins,6.0,",",","
+i yam what i yam muffins,6.0,stir,VB
+i yam what i yam muffins,6.0,until,IN
+i yam what i yam muffins,6.0,well,RB
+i yam what i yam muffins,6.0,blended,VBN
+i yam what i yam muffins,6.0,.,.
+i yam what i yam muffins,7.0,Drain,VB
+i yam what i yam muffins,7.0,the,DT
+i yam what i yam muffins,7.0,raisins,NNS
+i yam what i yam muffins,7.0,and,CC
+i yam what i yam muffins,7.0,add,VB
+i yam what i yam muffins,7.0,to,TO
+i yam what i yam muffins,7.0,batter,VB
+i yam what i yam muffins,7.0,along,RP
+i yam what i yam muffins,7.0,with,IN
+i yam what i yam muffins,7.0,orange,NNP
+i yam what i yam muffins,7.0,peel,NN
+i yam what i yam muffins,7.0,.,.
+i yam what i yam muffins,8.0,Spoon,NN
+i yam what i yam muffins,8.0,batter,NN
+i yam what i yam muffins,8.0,into,IN
+i yam what i yam muffins,8.0,prepared,VBN
+i yam what i yam muffins,8.0,muffin,NN
+i yam what i yam muffins,8.0,tins,NNS
+i yam what i yam muffins,8.0,",",","
+i yam what i yam muffins,8.0,sprinkle,VB
+i yam what i yam muffins,8.0,1/4,CD
+i yam what i yam muffins,8.0,to,IN
+i yam what i yam muffins,8.0,1/2,CD
+i yam what i yam muffins,8.0,tsp,NN
+i yam what i yam muffins,8.0,of,IN
+i yam what i yam muffins,8.0,granulated,JJ
+i yam what i yam muffins,8.0,sugar,NN
+i yam what i yam muffins,8.0,over,IN
+i yam what i yam muffins,8.0,each,DT
+i yam what i yam muffins,8.0,muffin,NN
+i yam what i yam muffins,8.0,.,.
+i yam what i yam muffins,9.0,Bake,VB
+i yam what i yam muffins,9.0,in,IN
+i yam what i yam muffins,9.0,preheated,JJ
+i yam what i yam muffins,9.0,oven,NN
+i yam what i yam muffins,9.0,for,IN
+i yam what i yam muffins,9.0,15,CD
+i yam what i yam muffins,9.0,to,TO
+i yam what i yam muffins,9.0,20,CD
+i yam what i yam muffins,9.0,minutes,NNS
+i yam what i yam muffins,9.0,.,.
+immoral sandwich filling loose meat,0.0,Brown,VB
+immoral sandwich filling loose meat,0.0,the,DT
+immoral sandwich filling loose meat,0.0,meat,NN
+immoral sandwich filling loose meat,0.0,&,CC
+immoral sandwich filling loose meat,0.0,drain,NN
+immoral sandwich filling loose meat,0.0,fat,NN
+immoral sandwich filling loose meat,0.0,.,.
+immoral sandwich filling loose meat,1.0,Stir,VB
+immoral sandwich filling loose meat,1.0,in,IN
+immoral sandwich filling loose meat,1.0,sugar,NN
+immoral sandwich filling loose meat,1.0,",",","
+immoral sandwich filling loose meat,1.0,mustard,NN
+immoral sandwich filling loose meat,1.0,",",","
+immoral sandwich filling loose meat,1.0,beer,NN
+immoral sandwich filling loose meat,1.0,",",","
+immoral sandwich filling loose meat,1.0,cayenne,NN
+immoral sandwich filling loose meat,1.0,",",","
+immoral sandwich filling loose meat,1.0,garlic,NN
+immoral sandwich filling loose meat,1.0,and,CC
+immoral sandwich filling loose meat,1.0,salt,NN
+immoral sandwich filling loose meat,1.0,&,CC
+immoral sandwich filling loose meat,1.0,pepper,NN
+immoral sandwich filling loose meat,1.0,to,TO
+immoral sandwich filling loose meat,1.0,taste,VB
+immoral sandwich filling loose meat,1.0,.,.
+immoral sandwich filling loose meat,2.0,Simmer,VB
+immoral sandwich filling loose meat,2.0,until,IN
+immoral sandwich filling loose meat,2.0,liquid,NN
+immoral sandwich filling loose meat,2.0,has,VBZ
+immoral sandwich filling loose meat,2.0,mostly,RB
+immoral sandwich filling loose meat,2.0,cooked,VBN
+immoral sandwich filling loose meat,2.0,away,RB
+immoral sandwich filling loose meat,2.0,.,.
+immoral sandwich filling loose meat,3.0,Lay,NNP
+immoral sandwich filling loose meat,3.0,slices,NNS
+immoral sandwich filling loose meat,3.0,of,IN
+immoral sandwich filling loose meat,3.0,cheese,NN
+immoral sandwich filling loose meat,3.0,over,IN
+immoral sandwich filling loose meat,3.0,top,NN
+immoral sandwich filling loose meat,3.0,of,IN
+immoral sandwich filling loose meat,3.0,meat,NN
+immoral sandwich filling loose meat,3.0,",",","
+immoral sandwich filling loose meat,3.0,then,RB
+immoral sandwich filling loose meat,3.0,cover,VB
+immoral sandwich filling loose meat,3.0,for,IN
+immoral sandwich filling loose meat,3.0,about,RB
+immoral sandwich filling loose meat,3.0,5,CD
+immoral sandwich filling loose meat,3.0,minutes,NNS
+immoral sandwich filling loose meat,3.0,",",","
+immoral sandwich filling loose meat,3.0,with,IN
+immoral sandwich filling loose meat,3.0,heat,NN
+immoral sandwich filling loose meat,3.0,on,IN
+immoral sandwich filling loose meat,3.0,very,RB
+immoral sandwich filling loose meat,3.0,low,JJ
+immoral sandwich filling loose meat,3.0,",",","
+immoral sandwich filling loose meat,3.0,until,IN
+immoral sandwich filling loose meat,3.0,cheese,NN
+immoral sandwich filling loose meat,3.0,has,VBZ
+immoral sandwich filling loose meat,3.0,melted,VBN
+immoral sandwich filling loose meat,3.0,.,.
+immoral sandwich filling loose meat,4.0,Stir,VB
+immoral sandwich filling loose meat,4.0,cheese,NN
+immoral sandwich filling loose meat,4.0,into,IN
+immoral sandwich filling loose meat,4.0,meat,NN
+immoral sandwich filling loose meat,4.0,.,.
+immoral sandwich filling loose meat,5.0,Serve,VB
+immoral sandwich filling loose meat,5.0,hot,JJ
+immoral sandwich filling loose meat,5.0,",",","
+immoral sandwich filling loose meat,5.0,on,IN
+immoral sandwich filling loose meat,5.0,sandwich,NN
+immoral sandwich filling loose meat,5.0,buns,NNS
+immoral sandwich filling loose meat,5.0,or,CC
+immoral sandwich filling loose meat,5.0,bread,NN
+immoral sandwich filling loose meat,5.0,",",","
+immoral sandwich filling loose meat,5.0,or,CC
+immoral sandwich filling loose meat,5.0,over,IN
+immoral sandwich filling loose meat,5.0,hot,JJ
+immoral sandwich filling loose meat,5.0,potatoes,NNS
+immoral sandwich filling loose meat,5.0,or,CC
+immoral sandwich filling loose meat,5.0,rice,NN
+immoral sandwich filling loose meat,5.0,.,.
+italian sandwich pasta salad,0.0,Cook,VB
+italian sandwich pasta salad,0.0,pasta,NN
+italian sandwich pasta salad,0.0,and,CC
+italian sandwich pasta salad,0.0,set,VBN
+italian sandwich pasta salad,0.0,aside,RB
+italian sandwich pasta salad,0.0,.,.
+italian sandwich pasta salad,1.0,Place,NN
+italian sandwich pasta salad,1.0,onions,NNS
+italian sandwich pasta salad,1.0,",",","
+italian sandwich pasta salad,1.0,dill,NN
+italian sandwich pasta salad,1.0,pickles,NNS
+italian sandwich pasta salad,1.0,",",","
+italian sandwich pasta salad,1.0,olives,NNS
+italian sandwich pasta salad,1.0,",",","
+italian sandwich pasta salad,1.0,water,NN
+italian sandwich pasta salad,1.0,chestnuts,NNS
+italian sandwich pasta salad,1.0,",",","
+italian sandwich pasta salad,1.0,chives,NNS
+italian sandwich pasta salad,1.0,and,CC
+italian sandwich pasta salad,1.0,peppers,NNS
+italian sandwich pasta salad,1.0,in,IN
+italian sandwich pasta salad,1.0,a,DT
+italian sandwich pasta salad,1.0,bowl,NN
+italian sandwich pasta salad,1.0,.,.
+italian sandwich pasta salad,2.0,Add,VB
+italian sandwich pasta salad,2.0,oil,NN
+italian sandwich pasta salad,2.0,",",","
+italian sandwich pasta salad,2.0,vinegar,NN
+italian sandwich pasta salad,2.0,and,CC
+italian sandwich pasta salad,2.0,spices,NNS
+italian sandwich pasta salad,2.0,.,.
+italian sandwich pasta salad,3.0,Marinate,VB
+italian sandwich pasta salad,3.0,for,IN
+italian sandwich pasta salad,3.0,15,CD
+italian sandwich pasta salad,3.0,-,SYM
+italian sandwich pasta salad,3.0,20,CD
+italian sandwich pasta salad,3.0,minutes,NNS
+italian sandwich pasta salad,3.0,or,CC
+italian sandwich pasta salad,3.0,so,RB
+italian sandwich pasta salad,3.0,.,.
+italian sandwich pasta salad,4.0,Add,VB
+italian sandwich pasta salad,4.0,pasta,NN
+italian sandwich pasta salad,4.0,",",","
+italian sandwich pasta salad,4.0,tomatoes,NNS
+italian sandwich pasta salad,4.0,",",","
+italian sandwich pasta salad,4.0,meat,NN
+italian sandwich pasta salad,4.0,and,CC
+italian sandwich pasta salad,4.0,cheese,NN
+italian sandwich pasta salad,4.0,and,CC
+italian sandwich pasta salad,4.0,toss,VB
+italian sandwich pasta salad,4.0,lightly,RB
+italian sandwich pasta salad,4.0,.,.
+italian sandwich pasta salad,5.0,Serve,VB
+italian sandwich pasta salad,5.0,cold,JJ
+italian sandwich pasta salad,5.0,.,.
+italian fries,0.0,Deep,JJ
+italian fries,0.0,fry,NN
+italian fries,0.0,french,JJ
+italian fries,0.0,fries,NNS
+italian fries,0.0,according,VBG
+italian fries,0.0,to,IN
+italian fries,0.0,package,NN
+italian fries,0.0,directions,NNS
+italian fries,0.0,(,-LRB-
+italian fries,0.0,thickness,NN
+italian fries,0.0,of,IN
+italian fries,0.0,fries,NNS
+italian fries,0.0,will,MD
+italian fries,0.0,determine,VB
+italian fries,0.0,frying,VBG
+italian fries,0.0,time,NN
+italian fries,0.0,),-RRB-
+italian fries,0.0,.,.
+italian fries,1.0,Drain,VB
+italian fries,1.0,well,RB
+italian fries,1.0,on,IN
+italian fries,1.0,paper,NN
+italian fries,1.0,towels,NNS
+italian fries,1.0,",",","
+italian fries,1.0,and,CC
+italian fries,1.0,transfer,VB
+italian fries,1.0,to,IN
+italian fries,1.0,a,DT
+italian fries,1.0,serving,VBG
+italian fries,1.0,platter,NN
+italian fries,1.0,.,.
+italian fries,2.0,Season,NN
+italian fries,2.0,with,IN
+italian fries,2.0,salt,NN
+italian fries,2.0,and,CC
+italian fries,2.0,pepper,NN
+italian fries,2.0,",",","
+italian fries,2.0,then,RB
+italian fries,2.0,sprinkle,VB
+italian fries,2.0,on,RP
+italian fries,2.0,remaining,VBG
+italian fries,2.0,ingredients,NNS
+italian fries,2.0,.,.
+italian fries,3.0,Serve,VB
+italian fries,3.0,with,IN
+italian fries,3.0,your,PRP$
+italian fries,3.0,favorite,JJ
+italian fries,3.0,condiments,NNS
+italian fries,3.0,.,.
+italian gut busters,0.0,Lay,VB
+italian gut busters,0.0,out,RP
+italian gut busters,0.0,sandwich,NN
+italian gut busters,0.0,rolls,NNS
+italian gut busters,0.0,on,IN
+italian gut busters,0.0,jelly,NN
+italian gut busters,0.0,roll,NN
+italian gut busters,0.0,pans,NNS
+italian gut busters,0.0,/,SYM
+italian gut busters,0.0,cookie,NN
+italian gut busters,0.0,sheets,NNS
+italian gut busters,0.0,(,-LRB-
+italian gut busters,0.0,I,PRP
+italian gut busters,0.0,line,VBP
+italian gut busters,0.0,mine,NN
+italian gut busters,0.0,with,IN
+italian gut busters,0.0,foil,NN
+italian gut busters,0.0,),-RRB-
+italian gut busters,0.0,.,.
+italian gut busters,1.0,Melt,NN
+italian gut busters,1.0,butter,NN
+italian gut busters,1.0,",",","
+italian gut busters,1.0,mix,VB
+italian gut busters,1.0,in,IN
+italian gut busters,1.0,Italian,NNP
+italian gut busters,1.0,Dressing,NNP
+italian gut busters,1.0,Mix,NNP
+italian gut busters,1.0,.,.
+italian gut busters,2.0,Using,VBG
+italian gut busters,2.0,a,DT
+italian gut busters,2.0,pastry,NN
+italian gut busters,2.0,or,CC
+italian gut busters,2.0,BBQ,NN
+italian gut busters,2.0,brush,NN
+italian gut busters,2.0,",",","
+italian gut busters,2.0,graciously,RB
+italian gut busters,2.0,apply,VB
+italian gut busters,2.0,seasoned,JJ
+italian gut busters,2.0,butter,NN
+italian gut busters,2.0,to,IN
+italian gut busters,2.0,the,DT
+italian gut busters,2.0,TOP,NN
+italian gut busters,2.0,of,IN
+italian gut busters,2.0,"the""bottom",NNP
+italian gut busters,2.0,bun,NN
+italian gut busters,2.0,"""",''
+italian gut busters,2.0,(,-LRB-
+italian gut busters,2.0,so,IN
+italian gut busters,2.0,this,DT
+italian gut busters,2.0,will,MD
+italian gut busters,2.0,be,VB
+italian gut busters,2.0,inside,IN
+italian gut busters,2.0,the,DT
+italian gut busters,2.0,sandwich,NN
+italian gut busters,2.0,),-RRB-
+italian gut busters,2.0,and,CC
+italian gut busters,2.0,the,DT
+italian gut busters,2.0,TOP,NN
+italian gut busters,2.0,of,IN
+italian gut busters,2.0,the,DT
+italian gut busters,2.0,top,JJ
+italian gut busters,2.0,bun,NN
+italian gut busters,2.0,(,-LRB-
+italian gut busters,2.0,so,IN
+italian gut busters,2.0,this,DT
+italian gut busters,2.0,will,MD
+italian gut busters,2.0,be,VB
+italian gut busters,2.0,outside,IN
+italian gut busters,2.0,the,DT
+italian gut busters,2.0,sandwich,NN
+italian gut busters,2.0,),-RRB-
+italian gut busters,2.0,.,.
+italian gut busters,3.0,Do,VB
+italian gut busters,3.0,n't,RB
+italian gut busters,3.0,miss,VB
+italian gut busters,3.0,this,DT
+italian gut busters,3.0,step,NN
+italian gut busters,3.0,",",","
+italian gut busters,3.0,I,PRP
+italian gut busters,3.0,do,VBP
+italian gut busters,3.0,n't,RB
+italian gut busters,3.0,know,VB
+italian gut busters,3.0,why,WRB
+italian gut busters,3.0,",",","
+italian gut busters,3.0,but,CC
+italian gut busters,3.0,it,PRP
+italian gut busters,3.0,does,VBZ
+italian gut busters,3.0,make,VB
+italian gut busters,3.0,a,DT
+italian gut busters,3.0,difference,NN
+italian gut busters,3.0,!,.
+italian gut busters,4.0,Here,RB
+italian gut busters,4.0,is,VBZ
+italian gut busters,4.0,where,WRB
+italian gut busters,4.0,I,PRP
+italian gut busters,4.0,create,VBP
+italian gut busters,4.0,an,DT
+italian gut busters,4.0,assembly,NN
+italian gut busters,4.0,line,NN
+italian gut busters,4.0,w/,NNP
+italian gut busters,4.0,the,DT
+italian gut busters,4.0,bottoms,NNS
+italian gut busters,4.0,of,IN
+italian gut busters,4.0,the,DT
+italian gut busters,4.0,buns,NNS
+italian gut busters,4.0,(,-LRB-
+italian gut busters,4.0,laying,VBG
+italian gut busters,4.0,"their""lids",NNS
+italian gut busters,4.0,"""",''
+italian gut busters,4.0,off,IN
+italian gut busters,4.0,to,IN
+italian gut busters,4.0,the,DT
+italian gut busters,4.0,side,NN
+italian gut busters,4.0,),-RRB-
+italian gut busters,4.0,.,.
+italian gut busters,5.0,Layer,VB
+italian gut busters,5.0,each,DT
+italian gut busters,5.0,bun,NN
+italian gut busters,5.0,w/,NNP
+italian gut busters,5.0,Ham,NNP
+italian gut busters,5.0,",",","
+italian gut busters,5.0,then,RB
+italian gut busters,5.0,swiss,JJ
+italian gut busters,5.0,cheese,NN
+italian gut busters,5.0,",",","
+italian gut busters,5.0,Turkey,NNP
+italian gut busters,5.0,",",","
+italian gut busters,5.0,then,RB
+italian gut busters,5.0,cheddar,NN
+italian gut busters,5.0,cheese,NN
+italian gut busters,5.0,",",","
+italian gut busters,5.0,Pepperoni,NNP
+italian gut busters,5.0,",",","
+italian gut busters,5.0,then,RB
+italian gut busters,5.0,mozzerella,NNP
+italian gut busters,5.0,cheese,NN
+italian gut busters,5.0,.,.
+italian gut busters,6.0,"Place""lids",NNS
+italian gut busters,6.0,"""",``
+italian gut busters,6.0,on,IN
+italian gut busters,6.0,buns,NNS
+italian gut busters,6.0,and,CC
+italian gut busters,6.0,place,NN
+italian gut busters,6.0,in,IN
+italian gut busters,6.0,425,CD
+italian gut busters,6.0,degree,NN
+italian gut busters,6.0,oven,NN
+italian gut busters,6.0,for,IN
+italian gut busters,6.0,approximly,NNP
+italian gut busters,6.0,12,CD
+italian gut busters,6.0,-,SYM
+italian gut busters,6.0,15,CD
+italian gut busters,6.0,minutes,NNS
+italian gut busters,6.0,",",","
+italian gut busters,6.0,or,CC
+italian gut busters,6.0,until,IN
+italian gut busters,6.0,you,PRP
+italian gut busters,6.0,see,VBP
+italian gut busters,6.0,the,DT
+italian gut busters,6.0,tops,NNS
+italian gut busters,6.0,start,VB
+italian gut busters,6.0,to,TO
+italian gut busters,6.0,turn,VB
+italian gut busters,6.0,golden,JJ
+italian gut busters,6.0,brown,NN
+italian gut busters,6.0,.,.
+jeanne s style birthday cake,0.0,To,TO
+jeanne s style birthday cake,0.0,prepare,VB
+jeanne s style birthday cake,0.0,base,NN
+jeanne s style birthday cake,0.0,",",","
+jeanne s style birthday cake,0.0,cut,VB
+jeanne s style birthday cake,0.0,shortening,NN
+jeanne s style birthday cake,0.0,into,IN
+jeanne s style birthday cake,0.0,dry,JJ
+jeanne s style birthday cake,0.0,ingredients,NNS
+jeanne s style birthday cake,0.0,",",","
+jeanne s style birthday cake,0.0,mix,VB
+jeanne s style birthday cake,0.0,well,RB
+jeanne s style birthday cake,0.0,.,.
+jeanne s style birthday cake,1.0,Pat,NN
+jeanne s style birthday cake,1.0,firmly,RB
+jeanne s style birthday cake,1.0,and,CC
+jeanne s style birthday cake,1.0,evenly,RB
+jeanne s style birthday cake,1.0,into,IN
+jeanne s style birthday cake,1.0,an,DT
+jeanne s style birthday cake,1.0,8,CD
+jeanne s style birthday cake,1.0,inch,NN
+jeanne s style birthday cake,1.0,square,NN
+jeanne s style birthday cake,1.0,pan,NN
+jeanne s style birthday cake,1.0,and,CC
+jeanne s style birthday cake,1.0,bake,VB
+jeanne s style birthday cake,1.0,at,IN
+jeanne s style birthday cake,1.0,350,CD
+jeanne s style birthday cake,1.0,deg,NN
+jeanne s style birthday cake,1.0,.,.
+jeanne s style birthday cake,1.0,F.,NNP
+jeanne s style birthday cake,1.0,for,IN
+jeanne s style birthday cake,1.0,10,CD
+jeanne s style birthday cake,1.0,-,SYM
+jeanne s style birthday cake,1.0,12,CD
+jeanne s style birthday cake,1.0,minutes,NNS
+jeanne s style birthday cake,1.0,.,.
+jeanne s style birthday cake,1.0, ,_SP
+jeanne s style birthday cake,1.0,Cool,UH
+jeanne s style birthday cake,1.0,.,.
+jeanne s style birthday cake,2.0,For,IN
+jeanne s style birthday cake,2.0,cake,NN
+jeanne s style birthday cake,2.0,:,:
+jeanne s style birthday cake,2.0,cream,NN
+jeanne s style birthday cake,2.0,shortening,NN
+jeanne s style birthday cake,2.0,",",","
+jeanne s style birthday cake,2.0,and,CC
+jeanne s style birthday cake,2.0,sugar,NN
+jeanne s style birthday cake,2.0,;,:
+jeanne s style birthday cake,2.0,add,VB
+jeanne s style birthday cake,2.0,eggs,NNS
+jeanne s style birthday cake,2.0,and,CC
+jeanne s style birthday cake,2.0,vanilla,NN
+jeanne s style birthday cake,2.0,",",","
+jeanne s style birthday cake,2.0,beating,VBG
+jeanne s style birthday cake,2.0,well,RB
+jeanne s style birthday cake,2.0,until,IN
+jeanne s style birthday cake,2.0,fluffy,JJ
+jeanne s style birthday cake,2.0,.,.
+jeanne s style birthday cake,3.0,Sift,VB
+jeanne s style birthday cake,3.0,flour,NN
+jeanne s style birthday cake,3.0,",",","
+jeanne s style birthday cake,3.0,baking,NN
+jeanne s style birthday cake,3.0,powder,NN
+jeanne s style birthday cake,3.0,and,CC
+jeanne s style birthday cake,3.0,salt,NN
+jeanne s style birthday cake,3.0,together,RB
+jeanne s style birthday cake,3.0,;,:
+jeanne s style birthday cake,3.0,add,VB
+jeanne s style birthday cake,3.0,to,IN
+jeanne s style birthday cake,3.0,creamed,JJ
+jeanne s style birthday cake,3.0,mixture,NN
+jeanne s style birthday cake,3.0,alternately,RB
+jeanne s style birthday cake,3.0,with,IN
+jeanne s style birthday cake,3.0,milk,NN
+jeanne s style birthday cake,3.0,.,.
+jeanne s style birthday cake,4.0,Pour,FW
+jeanne s style birthday cake,4.0,batter,VBP
+jeanne s style birthday cake,4.0,into,IN
+jeanne s style birthday cake,4.0,a,DT
+jeanne s style birthday cake,4.0,greased,JJ
+jeanne s style birthday cake,4.0,and,CC
+jeanne s style birthday cake,4.0,floured,VBN
+jeanne s style birthday cake,4.0,8,CD
+jeanne s style birthday cake,4.0,inch,NN
+jeanne s style birthday cake,4.0,square,JJ
+jeanne s style birthday cake,4.0,pan,NN
+jeanne s style birthday cake,4.0,.,.
+jeanne s style birthday cake,5.0,Bake,VB
+jeanne s style birthday cake,5.0,at,IN
+jeanne s style birthday cake,5.0,350,CD
+jeanne s style birthday cake,5.0,deg,NN
+jeanne s style birthday cake,5.0,.,.
+jeanne s style birthday cake,5.0,F,NNP
+jeanne s style birthday cake,5.0,for,IN
+jeanne s style birthday cake,5.0,25,CD
+jeanne s style birthday cake,5.0,-,SYM
+jeanne s style birthday cake,5.0,40,CD
+jeanne s style birthday cake,5.0,minutes,NNS
+jeanne s style birthday cake,5.0,.,.
+jeanne s style birthday cake,6.0,Frosting,NN
+jeanne s style birthday cake,6.0,:,:
+jeanne s style birthday cake,6.0,in,IN
+jeanne s style birthday cake,6.0,small,JJ
+jeanne s style birthday cake,6.0,saucepan,NN
+jeanne s style birthday cake,6.0,",",","
+jeanne s style birthday cake,6.0,stir,VB
+jeanne s style birthday cake,6.0,tog,NNP
+jeanne s style birthday cake,6.0,.,.
+jeanne s style birthday cake,6.0,milk,NN
+jeanne s style birthday cake,6.0,and,CC
+jeanne s style birthday cake,6.0,flour,NN
+jeanne s style birthday cake,6.0,.,.
+jeanne s style birthday cake,7.0,Cook,NNP
+jeanne s style birthday cake,7.0,",",","
+jeanne s style birthday cake,7.0,stirring,VBG
+jeanne s style birthday cake,7.0,constantly,RB
+jeanne s style birthday cake,7.0,",",","
+jeanne s style birthday cake,7.0,until,IN
+jeanne s style birthday cake,7.0,mixute,NNP
+jeanne s style birthday cake,7.0,is,VBZ
+jeanne s style birthday cake,7.0,thickened,JJ
+jeanne s style birthday cake,7.0,and,CC
+jeanne s style birthday cake,7.0,smooth,JJ
+jeanne s style birthday cake,7.0,.,.
+jeanne s style birthday cake,7.0, ,_SP
+jeanne s style birthday cake,7.0,Cool,UH
+jeanne s style birthday cake,7.0,.,.
+jeanne s style birthday cake,8.0,On,IN
+jeanne s style birthday cake,8.0,highest,JJS
+jeanne s style birthday cake,8.0,speed,NN
+jeanne s style birthday cake,8.0,of,IN
+jeanne s style birthday cake,8.0,mixer,NN
+jeanne s style birthday cake,8.0,",",","
+jeanne s style birthday cake,8.0,beat,VBD
+jeanne s style birthday cake,8.0,cooled,JJ
+jeanne s style birthday cake,8.0,flour,NN
+jeanne s style birthday cake,8.0,mixture,NN
+jeanne s style birthday cake,8.0,with,IN
+jeanne s style birthday cake,8.0,butter,NN
+jeanne s style birthday cake,8.0,",",","
+jeanne s style birthday cake,8.0,shortening,NN
+jeanne s style birthday cake,8.0,and,CC
+jeanne s style birthday cake,8.0,vanilla,NN
+jeanne s style birthday cake,8.0,until,IN
+jeanne s style birthday cake,8.0,smooth,JJ
+jeanne s style birthday cake,8.0,and,CC
+jeanne s style birthday cake,8.0,fluffy,JJ
+jeanne s style birthday cake,8.0,.,.
+jeanne s style birthday cake,9.0,Blend,VB
+jeanne s style birthday cake,9.0,in,IN
+jeanne s style birthday cake,9.0,icing,NN
+jeanne s style birthday cake,9.0,sugar,NN
+jeanne s style birthday cake,9.0,and,CC
+jeanne s style birthday cake,9.0,salt,NN
+jeanne s style birthday cake,9.0,;,:
+jeanne s style birthday cake,9.0,continue,VBP
+jeanne s style birthday cake,9.0,beating,VBG
+jeanne s style birthday cake,9.0,until,IN
+jeanne s style birthday cake,9.0,frosting,NN
+jeanne s style birthday cake,9.0,is,VBZ
+jeanne s style birthday cake,9.0,very,RB
+jeanne s style birthday cake,9.0,fluffy,JJ
+jeanne s style birthday cake,9.0,.,.
+jeanne s style birthday cake,9.0, ,_SP
+jeanne s style birthday cake,9.0,This,DT
+jeanne s style birthday cake,9.0,will,MD
+jeanne s style birthday cake,9.0,take,VB
+jeanne s style birthday cake,9.0,at,RB
+jeanne s style birthday cake,9.0,least,RBS
+jeanne s style birthday cake,9.0,15,CD
+jeanne s style birthday cake,9.0,minutes,NNS
+jeanne s style birthday cake,9.0,.,.
+jeanne s style birthday cake,10.0,To,TO
+jeanne s style birthday cake,10.0,assemble,VB
+jeanne s style birthday cake,10.0,cake,NN
+jeanne s style birthday cake,10.0,:,:
+jeanne s style birthday cake,10.0,place,NN
+jeanne s style birthday cake,10.0,shortbread,NN
+jeanne s style birthday cake,10.0,base,NN
+jeanne s style birthday cake,10.0,on,IN
+jeanne s style birthday cake,10.0,serving,VBG
+jeanne s style birthday cake,10.0,plate,NN
+jeanne s style birthday cake,10.0,;,:
+jeanne s style birthday cake,10.0,spread,VBN
+jeanne s style birthday cake,10.0,with,IN
+jeanne s style birthday cake,10.0,small,JJ
+jeanne s style birthday cake,10.0,amount,NN
+jeanne s style birthday cake,10.0,of,IN
+jeanne s style birthday cake,10.0,frosting,NN
+jeanne s style birthday cake,10.0,.,.
+jeanne s style birthday cake,11.0,Place,NN
+jeanne s style birthday cake,11.0,cake,NN
+jeanne s style birthday cake,11.0,on,IN
+jeanne s style birthday cake,11.0,base,NN
+jeanne s style birthday cake,11.0,.,.
+jeanne s style birthday cake,11.0,(,-LRB-
+jeanne s style birthday cake,11.0,you,PRP
+jeanne s style birthday cake,11.0,can,MD
+jeanne s style birthday cake,11.0,split,VB
+jeanne s style birthday cake,11.0,the,DT
+jeanne s style birthday cake,11.0,cake,NN
+jeanne s style birthday cake,11.0,for,IN
+jeanne s style birthday cake,11.0,layers,NNS
+jeanne s style birthday cake,11.0,),-RRB-
+jeanne s style birthday cake,11.0,.,.
+jeanne s style birthday cake,12.0,Cover,VB
+jeanne s style birthday cake,12.0,top,NN
+jeanne s style birthday cake,12.0,and,CC
+jeanne s style birthday cake,12.0,sides,NNS
+jeanne s style birthday cake,12.0,of,IN
+jeanne s style birthday cake,12.0,cake,NN
+jeanne s style birthday cake,12.0,with,IN
+jeanne s style birthday cake,12.0,remaining,VBG
+jeanne s style birthday cake,12.0,frosting,NN
+jeanne s style birthday cake,12.0,.,.
+jeanne s style birthday cake,12.0, ,_SP
+jeanne s style birthday cake,12.0,If,IN
+jeanne s style birthday cake,12.0,desired,VBN
+jeanne s style birthday cake,12.0,",",","
+jeanne s style birthday cake,12.0,garnish,VB
+jeanne s style birthday cake,12.0,sides,NNS
+jeanne s style birthday cake,12.0,of,IN
+jeanne s style birthday cake,12.0,cake,NN
+jeanne s style birthday cake,12.0,with,IN
+jeanne s style birthday cake,12.0,shaved,VBN
+jeanne s style birthday cake,12.0,semi,JJ
+jeanne s style birthday cake,12.0,-,JJ
+jeanne s style birthday cake,12.0,sweet,JJ
+jeanne s style birthday cake,12.0,chocolate,NN
+jeanne s style birthday cake,12.0,.,.
+jiffy extra moist carrot cake,0.0,Preheat,VB
+jiffy extra moist carrot cake,0.0,oven,NN
+jiffy extra moist carrot cake,0.0,to,IN
+jiffy extra moist carrot cake,0.0,350,CD
+jiffy extra moist carrot cake,0.0,degrees,NNS
+jiffy extra moist carrot cake,0.0,.,.
+jiffy extra moist carrot cake,1.0,Mix,VB
+jiffy extra moist carrot cake,1.0,together,RB
+jiffy extra moist carrot cake,1.0,the,DT
+jiffy extra moist carrot cake,1.0,cake,NN
+jiffy extra moist carrot cake,1.0,mix,NN
+jiffy extra moist carrot cake,1.0,",",","
+jiffy extra moist carrot cake,1.0,pudding,NN
+jiffy extra moist carrot cake,1.0,",",","
+jiffy extra moist carrot cake,1.0,nutmeg,NN
+jiffy extra moist carrot cake,1.0,and,CC
+jiffy extra moist carrot cake,1.0,cinnamon,NN
+jiffy extra moist carrot cake,1.0,.,.
+jiffy extra moist carrot cake,2.0,Add,VB
+jiffy extra moist carrot cake,2.0,eggs,NNS
+jiffy extra moist carrot cake,2.0,",",","
+jiffy extra moist carrot cake,2.0,oil,NN
+jiffy extra moist carrot cake,2.0,and,CC
+jiffy extra moist carrot cake,2.0,water,NN
+jiffy extra moist carrot cake,2.0,to,IN
+jiffy extra moist carrot cake,2.0,this,DT
+jiffy extra moist carrot cake,2.0,mixture,NN
+jiffy extra moist carrot cake,2.0,.,.
+jiffy extra moist carrot cake,3.0,Mix,VB
+jiffy extra moist carrot cake,3.0,on,IN
+jiffy extra moist carrot cake,3.0,medium,JJ
+jiffy extra moist carrot cake,3.0,speed,NN
+jiffy extra moist carrot cake,3.0,for,IN
+jiffy extra moist carrot cake,3.0,1,CD
+jiffy extra moist carrot cake,3.0,minute,NN
+jiffy extra moist carrot cake,3.0,.,.
+jiffy extra moist carrot cake,4.0,Add,VB
+jiffy extra moist carrot cake,4.0,the,DT
+jiffy extra moist carrot cake,4.0,pineapple,NN
+jiffy extra moist carrot cake,4.0,",",","
+jiffy extra moist carrot cake,4.0,carrots,NNS
+jiffy extra moist carrot cake,4.0,",",","
+jiffy extra moist carrot cake,4.0,pecans,NNS
+jiffy extra moist carrot cake,4.0,and,CC
+jiffy extra moist carrot cake,4.0,coconut,NN
+jiffy extra moist carrot cake,4.0,.,.
+jiffy extra moist carrot cake,5.0,Blend,VB
+jiffy extra moist carrot cake,5.0,well,RB
+jiffy extra moist carrot cake,5.0,.,.
+jiffy extra moist carrot cake,6.0,Pour,VB
+jiffy extra moist carrot cake,6.0,into,IN
+jiffy extra moist carrot cake,6.0,a,DT
+jiffy extra moist carrot cake,6.0,greased,JJ
+jiffy extra moist carrot cake,6.0,9,CD
+jiffy extra moist carrot cake,6.0,inch,NN
+jiffy extra moist carrot cake,6.0,round,JJ
+jiffy extra moist carrot cake,6.0,cake,NN
+jiffy extra moist carrot cake,6.0,pan,NN
+jiffy extra moist carrot cake,6.0,.,.
+jiffy extra moist carrot cake,7.0,Bake,VB
+jiffy extra moist carrot cake,7.0,25,CD
+jiffy extra moist carrot cake,7.0,to,TO
+jiffy extra moist carrot cake,7.0,30,CD
+jiffy extra moist carrot cake,7.0,minutes,NNS
+jiffy extra moist carrot cake,7.0,",",","
+jiffy extra moist carrot cake,7.0,until,IN
+jiffy extra moist carrot cake,7.0,tooth,NN
+jiffy extra moist carrot cake,7.0,pick,NN
+jiffy extra moist carrot cake,7.0,inserted,VBN
+jiffy extra moist carrot cake,7.0,in,IN
+jiffy extra moist carrot cake,7.0,the,DT
+jiffy extra moist carrot cake,7.0,center,NN
+jiffy extra moist carrot cake,7.0,comes,VBZ
+jiffy extra moist carrot cake,7.0,out,RP
+jiffy extra moist carrot cake,7.0,clean,JJ
+jiffy extra moist carrot cake,7.0,.,.
+jiffy roasted corn and jalapeno cornbread,0.0,Melt,VB
+jiffy roasted corn and jalapeno cornbread,0.0,butter,NN
+jiffy roasted corn and jalapeno cornbread,0.0,in,IN
+jiffy roasted corn and jalapeno cornbread,0.0,a,DT
+jiffy roasted corn and jalapeno cornbread,0.0,sauté,NN
+jiffy roasted corn and jalapeno cornbread,0.0,pan,NN
+jiffy roasted corn and jalapeno cornbread,0.0,.,.
+jiffy roasted corn and jalapeno cornbread,1.0,Add,VB
+jiffy roasted corn and jalapeno cornbread,1.0,the,DT
+jiffy roasted corn and jalapeno cornbread,1.0,corn,NN
+jiffy roasted corn and jalapeno cornbread,1.0,",",","
+jiffy roasted corn and jalapeno cornbread,1.0,onion,NN
+jiffy roasted corn and jalapeno cornbread,1.0,and,CC
+jiffy roasted corn and jalapeno cornbread,1.0,red,JJ
+jiffy roasted corn and jalapeno cornbread,1.0,pepper,NN
+jiffy roasted corn and jalapeno cornbread,1.0,and,CC
+jiffy roasted corn and jalapeno cornbread,1.0,sauté,VB
+jiffy roasted corn and jalapeno cornbread,1.0,on,IN
+jiffy roasted corn and jalapeno cornbread,1.0,medium,JJ
+jiffy roasted corn and jalapeno cornbread,1.0,heat,NN
+jiffy roasted corn and jalapeno cornbread,1.0,until,IN
+jiffy roasted corn and jalapeno cornbread,1.0,some,DT
+jiffy roasted corn and jalapeno cornbread,1.0,of,IN
+jiffy roasted corn and jalapeno cornbread,1.0,the,DT
+jiffy roasted corn and jalapeno cornbread,1.0,corn,NN
+jiffy roasted corn and jalapeno cornbread,1.0,kernels,NNS
+jiffy roasted corn and jalapeno cornbread,1.0,start,VBP
+jiffy roasted corn and jalapeno cornbread,1.0,to,TO
+jiffy roasted corn and jalapeno cornbread,1.0,turn,VB
+jiffy roasted corn and jalapeno cornbread,1.0,golden,JJ
+jiffy roasted corn and jalapeno cornbread,1.0,brown,NN
+jiffy roasted corn and jalapeno cornbread,1.0,.,.
+jiffy roasted corn and jalapeno cornbread,2.0,Whisk,VB
+jiffy roasted corn and jalapeno cornbread,2.0,egg,NN
+jiffy roasted corn and jalapeno cornbread,2.0,",",","
+jiffy roasted corn and jalapeno cornbread,2.0,corn,NN
+jiffy roasted corn and jalapeno cornbread,2.0,liquid,NN
+jiffy roasted corn and jalapeno cornbread,2.0,",",","
+jiffy roasted corn and jalapeno cornbread,2.0,and,CC
+jiffy roasted corn and jalapeno cornbread,2.0,cream,NN
+jiffy roasted corn and jalapeno cornbread,2.0,together,RB
+jiffy roasted corn and jalapeno cornbread,2.0,.,.
+jiffy roasted corn and jalapeno cornbread,3.0,Stir,VB
+jiffy roasted corn and jalapeno cornbread,3.0,into,IN
+jiffy roasted corn and jalapeno cornbread,3.0,corn,NN
+jiffy roasted corn and jalapeno cornbread,3.0,muffin,NN
+jiffy roasted corn and jalapeno cornbread,3.0,mix,NN
+jiffy roasted corn and jalapeno cornbread,3.0,with,IN
+jiffy roasted corn and jalapeno cornbread,3.0,a,DT
+jiffy roasted corn and jalapeno cornbread,3.0,fork,NN
+jiffy roasted corn and jalapeno cornbread,3.0,.,.
+jiffy roasted corn and jalapeno cornbread,4.0,Stir,VB
+jiffy roasted corn and jalapeno cornbread,4.0,in,IN
+jiffy roasted corn and jalapeno cornbread,4.0,diced,JJ
+jiffy roasted corn and jalapeno cornbread,4.0,jalapenos,NNS
+jiffy roasted corn and jalapeno cornbread,4.0,and,CC
+jiffy roasted corn and jalapeno cornbread,4.0,cheddar,NN
+jiffy roasted corn and jalapeno cornbread,4.0,cheese,NN
+jiffy roasted corn and jalapeno cornbread,4.0,.,.
+jiffy roasted corn and jalapeno cornbread,5.0,Quickly,RB
+jiffy roasted corn and jalapeno cornbread,5.0,stir,VB
+jiffy roasted corn and jalapeno cornbread,5.0,in,IN
+jiffy roasted corn and jalapeno cornbread,5.0,hot,JJ
+jiffy roasted corn and jalapeno cornbread,5.0,sautéed,JJ
+jiffy roasted corn and jalapeno cornbread,5.0,corn,NN
+jiffy roasted corn and jalapeno cornbread,5.0,and,CC
+jiffy roasted corn and jalapeno cornbread,5.0,onion,NN
+jiffy roasted corn and jalapeno cornbread,5.0,mixture,NN
+jiffy roasted corn and jalapeno cornbread,5.0,",",","
+jiffy roasted corn and jalapeno cornbread,5.0,just,RB
+jiffy roasted corn and jalapeno cornbread,5.0,mixing,VBG
+jiffy roasted corn and jalapeno cornbread,5.0,in,RP
+jiffy roasted corn and jalapeno cornbread,5.0,slightly,RB
+jiffy roasted corn and jalapeno cornbread,5.0,.,.
+jiffy roasted corn and jalapeno cornbread,6.0,Pour,VB
+jiffy roasted corn and jalapeno cornbread,6.0,into,IN
+jiffy roasted corn and jalapeno cornbread,6.0,8,CD
+jiffy roasted corn and jalapeno cornbread,6.0,”,''
+jiffy roasted corn and jalapeno cornbread,6.0,x,SYM
+jiffy roasted corn and jalapeno cornbread,6.0,8,CD
+jiffy roasted corn and jalapeno cornbread,6.0,”,''
+jiffy roasted corn and jalapeno cornbread,6.0,buttered,VBN
+jiffy roasted corn and jalapeno cornbread,6.0,baking,NN
+jiffy roasted corn and jalapeno cornbread,6.0,dish,NN
+jiffy roasted corn and jalapeno cornbread,6.0,.,.
+jiffy roasted corn and jalapeno cornbread,7.0,Bake,VB
+jiffy roasted corn and jalapeno cornbread,7.0,at,IN
+jiffy roasted corn and jalapeno cornbread,7.0,350º,CD
+jiffy roasted corn and jalapeno cornbread,7.0,for,IN
+jiffy roasted corn and jalapeno cornbread,7.0,15,CD
+jiffy roasted corn and jalapeno cornbread,7.0,minutes,NNS
+jiffy roasted corn and jalapeno cornbread,7.0,.,.
+jiffy roasted corn and jalapeno cornbread,8.0,Remove,VB
+jiffy roasted corn and jalapeno cornbread,8.0,cornbread,NN
+jiffy roasted corn and jalapeno cornbread,8.0,",",","
+jiffy roasted corn and jalapeno cornbread,8.0,turn,VB
+jiffy roasted corn and jalapeno cornbread,8.0,off,RP
+jiffy roasted corn and jalapeno cornbread,8.0,oven,NN
+jiffy roasted corn and jalapeno cornbread,8.0,",",","
+jiffy roasted corn and jalapeno cornbread,8.0,drizzle,NN
+jiffy roasted corn and jalapeno cornbread,8.0,cornbread,NN
+jiffy roasted corn and jalapeno cornbread,8.0,with,IN
+jiffy roasted corn and jalapeno cornbread,8.0,honey,NN
+jiffy roasted corn and jalapeno cornbread,8.0,and,CC
+jiffy roasted corn and jalapeno cornbread,8.0,put,VBD
+jiffy roasted corn and jalapeno cornbread,8.0,back,RB
+jiffy roasted corn and jalapeno cornbread,8.0,in,IN
+jiffy roasted corn and jalapeno cornbread,8.0,hot,JJ
+jiffy roasted corn and jalapeno cornbread,8.0,oven,NN
+jiffy roasted corn and jalapeno cornbread,8.0,for,IN
+jiffy roasted corn and jalapeno cornbread,8.0,5,CD
+jiffy roasted corn and jalapeno cornbread,8.0,minutes,NNS
+jiffy roasted corn and jalapeno cornbread,8.0,(,-LRB-
+jiffy roasted corn and jalapeno cornbread,8.0,If,IN
+jiffy roasted corn and jalapeno cornbread,8.0,you,PRP
+jiffy roasted corn and jalapeno cornbread,8.0,prefer,VBP
+jiffy roasted corn and jalapeno cornbread,8.0,not,RB
+jiffy roasted corn and jalapeno cornbread,8.0,to,TO
+jiffy roasted corn and jalapeno cornbread,8.0,use,VB
+jiffy roasted corn and jalapeno cornbread,8.0,honey,NN
+jiffy roasted corn and jalapeno cornbread,8.0,just,RB
+jiffy roasted corn and jalapeno cornbread,8.0,bake,VB
+jiffy roasted corn and jalapeno cornbread,8.0,for,IN
+jiffy roasted corn and jalapeno cornbread,8.0,a,DT
+jiffy roasted corn and jalapeno cornbread,8.0,total,NN
+jiffy roasted corn and jalapeno cornbread,8.0,of,IN
+jiffy roasted corn and jalapeno cornbread,8.0,20,CD
+jiffy roasted corn and jalapeno cornbread,8.0,minutes,NNS
+jiffy roasted corn and jalapeno cornbread,8.0,),-RRB-
+jiffy roasted corn and jalapeno cornbread,8.0,.,.
+jiffy roasted corn and jalapeno cornbread,9.0,Remove,VB
+jiffy roasted corn and jalapeno cornbread,9.0,from,IN
+jiffy roasted corn and jalapeno cornbread,9.0,oven,NN
+jiffy roasted corn and jalapeno cornbread,9.0,and,CC
+jiffy roasted corn and jalapeno cornbread,9.0,let,VB
+jiffy roasted corn and jalapeno cornbread,9.0,stand,VB
+jiffy roasted corn and jalapeno cornbread,9.0,for,IN
+jiffy roasted corn and jalapeno cornbread,9.0,10,CD
+jiffy roasted corn and jalapeno cornbread,9.0,minutes,NNS
+jiffy roasted corn and jalapeno cornbread,9.0,before,IN
+jiffy roasted corn and jalapeno cornbread,9.0,serving,VBG
+jiffy roasted corn and jalapeno cornbread,9.0,.,.
+keep it going german friendship cake,0.0,Mix,VB
+keep it going german friendship cake,0.0,starter,NN
+keep it going german friendship cake,0.0,ingredients,NNS
+keep it going german friendship cake,0.0,in,IN
+keep it going german friendship cake,0.0,a,DT
+keep it going german friendship cake,0.0,bowl,NN
+keep it going german friendship cake,0.0,and,CC
+keep it going german friendship cake,0.0,let,VB
+keep it going german friendship cake,0.0,stand,VB
+keep it going german friendship cake,0.0,at,IN
+keep it going german friendship cake,0.0,room,NN
+keep it going german friendship cake,0.0,temperature,NN
+keep it going german friendship cake,0.0,undisturbed,JJ
+keep it going german friendship cake,0.0,for,IN
+keep it going german friendship cake,0.0,24,CD
+keep it going german friendship cake,0.0,to,TO
+keep it going german friendship cake,0.0,36,CD
+keep it going german friendship cake,0.0,hours,NNS
+keep it going german friendship cake,0.0,.,.
+keep it going german friendship cake,1.0,(,-LRB-
+keep it going german friendship cake,1.0,If,IN
+keep it going german friendship cake,1.0,you,PRP
+keep it going german friendship cake,1.0,already,RB
+keep it going german friendship cake,1.0,have,VBP
+keep it going german friendship cake,1.0,your,PRP$
+keep it going german friendship cake,1.0,one,CD
+keep it going german friendship cake,1.0,cup,NN
+keep it going german friendship cake,1.0,of,IN
+keep it going german friendship cake,1.0,starter,NN
+keep it going german friendship cake,1.0,from,IN
+keep it going german friendship cake,1.0,a,DT
+keep it going german friendship cake,1.0,friend,NN
+keep it going german friendship cake,1.0,",",","
+keep it going german friendship cake,1.0,disregard,VBP
+keep it going german friendship cake,1.0,the,DT
+keep it going german friendship cake,1.0,above,JJ
+keep it going german friendship cake,1.0,.,.
+keep it going german friendship cake,1.0,),-RRB-
+keep it going german friendship cake,1.0,Place,NNP
+keep it going german friendship cake,1.0,starter,NN
+keep it going german friendship cake,1.0,in,IN
+keep it going german friendship cake,1.0,a,DT
+keep it going german friendship cake,1.0,medium,JJ
+keep it going german friendship cake,1.0,bowl,NN
+keep it going german friendship cake,1.0,and,CC
+keep it going german friendship cake,1.0,combine,VB
+keep it going german friendship cake,1.0,it,PRP
+keep it going german friendship cake,1.0,with,IN
+keep it going german friendship cake,1.0,"the""First",NNP
+keep it going german friendship cake,1.0,Day,NNP
+keep it going german friendship cake,1.0,"""",``
+keep it going german friendship cake,1.0,ingredients,NNS
+keep it going german friendship cake,1.0,.,.
+keep it going german friendship cake,2.0,Cover,VB
+keep it going german friendship cake,2.0,and,CC
+keep it going german friendship cake,2.0,refrigerate,VB
+keep it going german friendship cake,2.0,.,.
+keep it going german friendship cake,3.0,Stir,VB
+keep it going german friendship cake,3.0,once,RB
+keep it going german friendship cake,3.0,a,DT
+keep it going german friendship cake,3.0,day,NN
+keep it going german friendship cake,3.0,for,IN
+keep it going german friendship cake,3.0,5,CD
+keep it going german friendship cake,3.0,days,NNS
+keep it going german friendship cake,3.0,.,.
+keep it going german friendship cake,4.0,On,IN
+keep it going german friendship cake,4.0,the,DT
+keep it going german friendship cake,4.0,5th,JJ
+keep it going german friendship cake,4.0,day,NN
+keep it going german friendship cake,4.0,",",","
+keep it going german friendship cake,4.0,place,NN
+keep it going german friendship cake,4.0,in,IN
+keep it going german friendship cake,4.0,a,DT
+keep it going german friendship cake,4.0,larger,JJR
+keep it going german friendship cake,4.0,bowl,NN
+keep it going german friendship cake,4.0,and,CC
+keep it going german friendship cake,4.0,add,VB
+keep it going german friendship cake,4.0,"the""Fifth",NNP
+keep it going german friendship cake,4.0,Day,NNP
+keep it going german friendship cake,4.0,"""",''
+keep it going german friendship cake,4.0,ingredients,NNS
+keep it going german friendship cake,4.0,.,.
+keep it going german friendship cake,5.0,Cover,VB
+keep it going german friendship cake,5.0,and,CC
+keep it going german friendship cake,5.0,refrigerate,VB
+keep it going german friendship cake,5.0,.,.
+keep it going german friendship cake,6.0,Stir,VB
+keep it going german friendship cake,6.0,once,RB
+keep it going german friendship cake,6.0,a,DT
+keep it going german friendship cake,6.0,day,NN
+keep it going german friendship cake,6.0,for,IN
+keep it going german friendship cake,6.0,5,CD
+keep it going german friendship cake,6.0,more,JJR
+keep it going german friendship cake,6.0,days,NNS
+keep it going german friendship cake,6.0,.,.
+keep it going german friendship cake,7.0,Remove,VB
+keep it going german friendship cake,7.0,3,CD
+keep it going german friendship cake,7.0,separate,JJ
+keep it going german friendship cake,7.0,cups,NNS
+keep it going german friendship cake,7.0,of,IN
+keep it going german friendship cake,7.0,starter,NN
+keep it going german friendship cake,7.0,and,CC
+keep it going german friendship cake,7.0,give,VB
+keep it going german friendship cake,7.0,each,DT
+keep it going german friendship cake,7.0,cup,NN
+keep it going german friendship cake,7.0,to,IN
+keep it going german friendship cake,7.0,3,CD
+keep it going german friendship cake,7.0,friends,NNS
+keep it going german friendship cake,7.0,with,IN
+keep it going german friendship cake,7.0,the,DT
+keep it going german friendship cake,7.0,recipe,NN
+keep it going german friendship cake,7.0,and,CC
+keep it going german friendship cake,7.0,instructions,NNS
+keep it going german friendship cake,7.0,.,.
+keep it going german friendship cake,8.0,(,-LRB-
+keep it going german friendship cake,8.0,They,PRP
+keep it going german friendship cake,8.0,will,MD
+keep it going german friendship cake,8.0,not,RB
+keep it going german friendship cake,8.0,need,VB
+keep it going german friendship cake,8.0,to,TO
+keep it going german friendship cake,8.0,mix,VB
+keep it going german friendship cake,8.0,their,PRP$
+keep it going german friendship cake,8.0,starter,NN
+keep it going german friendship cake,8.0,or,CC
+keep it going german friendship cake,8.0,let,VB
+keep it going german friendship cake,8.0,it,PRP
+keep it going german friendship cake,8.0,sit,VB
+keep it going german friendship cake,8.0,for,IN
+keep it going german friendship cake,8.0,24,CD
+keep it going german friendship cake,8.0,to,TO
+keep it going german friendship cake,8.0,36,CD
+keep it going german friendship cake,8.0,hours,NNS
+keep it going german friendship cake,8.0,because,IN
+keep it going german friendship cake,8.0,you,PRP
+keep it going german friendship cake,8.0,are,VBP
+keep it going german friendship cake,8.0,giving,VBG
+keep it going german friendship cake,8.0,them,PRP
+keep it going german friendship cake,8.0,their,PRP$
+keep it going german friendship cake,8.0,starter,NN
+keep it going german friendship cake,8.0,.,.
+keep it going german friendship cake,8.0,),-RRB-
+keep it going german friendship cake,8.0,Preheat,VB
+keep it going german friendship cake,8.0,oven,NN
+keep it going german friendship cake,8.0,to,IN
+keep it going german friendship cake,8.0,350,CD
+keep it going german friendship cake,8.0,degrees,NNS
+keep it going german friendship cake,8.0,.,.
+keep it going german friendship cake,9.0,Combine,VB
+keep it going german friendship cake,9.0,all,DT
+keep it going german friendship cake,9.0,of,IN
+keep it going german friendship cake,9.0,"the""Tenth",NNP
+keep it going german friendship cake,9.0,Day,NNP
+keep it going german friendship cake,9.0,"""",''
+keep it going german friendship cake,9.0,ingredients,NNS
+keep it going german friendship cake,9.0,with,IN
+keep it going german friendship cake,9.0,the,DT
+keep it going german friendship cake,9.0,remaining,VBG
+keep it going german friendship cake,9.0,mixture,NN
+keep it going german friendship cake,9.0,.,.
+keep it going german friendship cake,10.0,Pour,VB
+keep it going german friendship cake,10.0,into,IN
+keep it going german friendship cake,10.0,a,DT
+keep it going german friendship cake,10.0,greased,JJ
+keep it going german friendship cake,10.0,and,CC
+keep it going german friendship cake,10.0,floured,VBN
+keep it going german friendship cake,10.0,9,CD
+keep it going german friendship cake,10.0,x,SYM
+keep it going german friendship cake,10.0,13,CD
+keep it going german friendship cake,10.0,"""",``
+keep it going german friendship cake,10.0,pan,NN
+keep it going german friendship cake,10.0,.,.
+keep it going german friendship cake,11.0,Combine,VB
+keep it going german friendship cake,11.0,topping,VBG
+keep it going german friendship cake,11.0,ingredients,NNS
+keep it going german friendship cake,11.0,and,CC
+keep it going german friendship cake,11.0,sprinkle,VB
+keep it going german friendship cake,11.0,on,RP
+keep it going german friendship cake,11.0,top,NN
+keep it going german friendship cake,11.0,.,.
+keep it going german friendship cake,12.0,Bake,VB
+keep it going german friendship cake,12.0,for,IN
+keep it going german friendship cake,12.0,40-,CD
+keep it going german friendship cake,12.0,50,CD
+keep it going german friendship cake,12.0,minutes,NNS
+keep it going german friendship cake,12.0,.,.
+killer lasagna,0.0,Brown,VB
+killer lasagna,0.0,the,DT
+killer lasagna,0.0,sausage,NN
+killer lasagna,0.0,and,CC
+killer lasagna,0.0,ground,NN
+killer lasagna,0.0,meat,NN
+killer lasagna,0.0,and,CC
+killer lasagna,0.0,drain,VB
+killer lasagna,0.0,all,PDT
+killer lasagna,0.0,the,DT
+killer lasagna,0.0,fat,NN
+killer lasagna,0.0,.,.
+killer lasagna,1.0,Add,VB
+killer lasagna,1.0,all,PDT
+killer lasagna,1.0,the,DT
+killer lasagna,1.0,other,JJ
+killer lasagna,1.0,ingredients,NNS
+killer lasagna,1.0,for,IN
+killer lasagna,1.0,the,DT
+killer lasagna,1.0,meat,NN
+killer lasagna,1.0,filling,NN
+killer lasagna,1.0,and,CC
+killer lasagna,1.0,simmer,VB
+killer lasagna,1.0,on,IN
+killer lasagna,1.0,the,DT
+killer lasagna,1.0,stove,NN
+killer lasagna,1.0,",",","
+killer lasagna,1.0,uncovered,VBN
+killer lasagna,1.0,",",","
+killer lasagna,1.0,for,IN
+killer lasagna,1.0,about,RB
+killer lasagna,1.0,1/2,CD
+killer lasagna,1.0,hour,NN
+killer lasagna,1.0,.,.
+killer lasagna,2.0,I,PRP
+killer lasagna,2.0,usually,RB
+killer lasagna,2.0,add,VBP
+killer lasagna,2.0,a,DT
+killer lasagna,2.0,bay,NN
+killer lasagna,2.0,leaf,NN
+killer lasagna,2.0,or,CC
+killer lasagna,2.0,two,CD
+killer lasagna,2.0,.,.
+killer lasagna,3.0,Mix,VB
+killer lasagna,3.0,up,RP
+killer lasagna,3.0,the,DT
+killer lasagna,3.0,cheese,NN
+killer lasagna,3.0,filling,NN
+killer lasagna,3.0,and,CC
+killer lasagna,3.0,set,VBN
+killer lasagna,3.0,aside,RB
+killer lasagna,3.0,in,IN
+killer lasagna,3.0,fridge,NN
+killer lasagna,3.0,until,IN
+killer lasagna,3.0,ready,JJ
+killer lasagna,3.0,to,TO
+killer lasagna,3.0,use,VB
+killer lasagna,3.0,.,.
+killer lasagna,4.0,Put,VB
+killer lasagna,4.0,the,DT
+killer lasagna,4.0,noodles,NNS
+killer lasagna,4.0,in,IN
+killer lasagna,4.0,salted,VBN
+killer lasagna,4.0,water,NN
+killer lasagna,4.0,and,CC
+killer lasagna,4.0,cook,VB
+killer lasagna,4.0,until,IN
+killer lasagna,4.0,soft,JJ
+killer lasagna,4.0,when,WRB
+killer lasagna,4.0,poked,VBN
+killer lasagna,4.0,with,IN
+killer lasagna,4.0,a,DT
+killer lasagna,4.0,fork,NN
+killer lasagna,4.0,.,.
+killer lasagna,5.0,When,WRB
+killer lasagna,5.0,the,DT
+killer lasagna,5.0,noodles,NNS
+killer lasagna,5.0,are,VBP
+killer lasagna,5.0,done,VBN
+killer lasagna,5.0,",",","
+killer lasagna,5.0,drain,VB
+killer lasagna,5.0,the,DT
+killer lasagna,5.0,noodles,NNS
+killer lasagna,5.0,and,CC
+killer lasagna,5.0,rinse,VB
+killer lasagna,5.0,off,RP
+killer lasagna,5.0,with,IN
+killer lasagna,5.0,cold,JJ
+killer lasagna,5.0,water,NN
+killer lasagna,5.0,so,IN
+killer lasagna,5.0,they,PRP
+killer lasagna,5.0,can,MD
+killer lasagna,5.0,be,VB
+killer lasagna,5.0,handled,VBN
+killer lasagna,5.0,easily,RB
+killer lasagna,5.0,.,.
+killer lasagna,6.0,Spray,VB
+killer lasagna,6.0,the,DT
+killer lasagna,6.0,baking,NN
+killer lasagna,6.0,pan,NN
+killer lasagna,6.0,with,IN
+killer lasagna,6.0,a,DT
+killer lasagna,6.0,non,JJ
+killer lasagna,6.0,-,JJ
+killer lasagna,6.0,stick,JJ
+killer lasagna,6.0,spray,NN
+killer lasagna,6.0,and,CC
+killer lasagna,6.0,put,VB
+killer lasagna,6.0,a,DT
+killer lasagna,6.0,layer,NN
+killer lasagna,6.0,of,IN
+killer lasagna,6.0,noodles,NNS
+killer lasagna,6.0,down,RB
+killer lasagna,6.0,on,IN
+killer lasagna,6.0,the,DT
+killer lasagna,6.0,bottom,NN
+killer lasagna,6.0,of,IN
+killer lasagna,6.0,the,DT
+killer lasagna,6.0,pan,NNP
+killer lasagna,6.0,.,NNP
+killer lasagna,6.0, ,_SP
+killer lasagna,6.0,It,PRP
+killer lasagna,6.0,is,VBZ
+killer lasagna,6.0,OK,JJ
+killer lasagna,6.0,to,TO
+killer lasagna,6.0,cut,VB
+killer lasagna,6.0,some,DT
+killer lasagna,6.0,of,IN
+killer lasagna,6.0,the,DT
+killer lasagna,6.0,noodles,NNS
+killer lasagna,6.0,to,TO
+killer lasagna,6.0,fit,VB
+killer lasagna,6.0,into,IN
+killer lasagna,6.0,the,DT
+killer lasagna,6.0,pan,NN
+killer lasagna,6.0,if,IN
+killer lasagna,6.0,they,PRP
+killer lasagna,6.0,do,VBP
+killer lasagna,6.0,not,RB
+killer lasagna,6.0,fit,VB
+killer lasagna,6.0,whole,JJ
+killer lasagna,6.0,.,.
+killer lasagna,7.0,Spread,VB
+killer lasagna,7.0,half,PDT
+killer lasagna,7.0,the,DT
+killer lasagna,7.0,cheese,NN
+killer lasagna,7.0,filling,VBG
+killer lasagna,7.0,over,RP
+killer lasagna,7.0,the,DT
+killer lasagna,7.0,noodels,NNS
+killer lasagna,7.0,",",","
+killer lasagna,7.0,then,RB
+killer lasagna,7.0,half,NN
+killer lasagna,7.0,of,IN
+killer lasagna,7.0,the,DT
+killer lasagna,7.0,mozarella,NNP
+killer lasagna,7.0,cheese,NN
+killer lasagna,7.0,on,IN
+killer lasagna,7.0,top,NN
+killer lasagna,7.0,of,IN
+killer lasagna,7.0,that,DT
+killer lasagna,7.0,",",","
+killer lasagna,7.0,then,RB
+killer lasagna,7.0,half,NN
+killer lasagna,7.0,of,IN
+killer lasagna,7.0,the,DT
+killer lasagna,7.0,meat,NN
+killer lasagna,7.0,sauce,NN
+killer lasagna,7.0,over,IN
+killer lasagna,7.0,the,DT
+killer lasagna,7.0,grated,NN
+killer lasagna,7.0,mozarella,NN
+killer lasagna,7.0,cheese,NN
+killer lasagna,7.0,.,.
+killer lasagna,8.0,REPEAT,NN
+killer lasagna,8.0,layers,NNS
+killer lasagna,8.0,and,CC
+killer lasagna,8.0,then,RB
+killer lasagna,8.0,top,NN
+killer lasagna,8.0,with,IN
+killer lasagna,8.0,more,JJR
+killer lasagna,8.0,mozarella,NN
+killer lasagna,8.0,cheese,NN
+killer lasagna,8.0,.,.
+killer lasagna,9.0,Bake,VB
+killer lasagna,9.0,at,IN
+killer lasagna,9.0,375,CD
+killer lasagna,9.0,degrees,NNS
+killer lasagna,9.0,for,IN
+killer lasagna,9.0,30,CD
+killer lasagna,9.0,minutes,NNS
+killer lasagna,9.0,.,.
+killer lasagna,9.0, ,_SP
+killer lasagna,9.0,Let,VBD
+killer lasagna,9.0,stand,VB
+killer lasagna,9.0,for,IN
+killer lasagna,9.0,10,CD
+killer lasagna,9.0,minutes,NNS
+killer lasagna,9.0,before,IN
+killer lasagna,9.0,cutting,VBG
+killer lasagna,9.0,into,IN
+killer lasagna,9.0,it,PRP
+killer lasagna,9.0,.,.
+killer lasagna,10.0,Leftovers,NNS
+killer lasagna,10.0,can,MD
+killer lasagna,10.0,be,VB
+killer lasagna,10.0,easily,RB
+killer lasagna,10.0,stored,VBN
+killer lasagna,10.0,in,IN
+killer lasagna,10.0,the,DT
+killer lasagna,10.0,freezer,NN
+killer lasagna,10.0,.,.
+kitchen sink egg bake,0.0,Preheat,VB
+kitchen sink egg bake,0.0,oven,NN
+kitchen sink egg bake,0.0,to,IN
+kitchen sink egg bake,0.0,325,CD
+kitchen sink egg bake,0.0,°,NN
+kitchen sink egg bake,0.0,.,.
+kitchen sink egg bake,1.0,Thaw,VB
+kitchen sink egg bake,1.0,spinach,NN
+kitchen sink egg bake,1.0,",",","
+kitchen sink egg bake,1.0,and,CC
+kitchen sink egg bake,1.0,squeeze,VB
+kitchen sink egg bake,1.0,out,RP
+kitchen sink egg bake,1.0,as,RB
+kitchen sink egg bake,1.0,MUCH,JJ
+kitchen sink egg bake,1.0,moisture,NN
+kitchen sink egg bake,1.0,as,IN
+kitchen sink egg bake,1.0,possible,JJ
+kitchen sink egg bake,1.0,.,.
+kitchen sink egg bake,2.0,Beat,VB
+kitchen sink egg bake,2.0,the,DT
+kitchen sink egg bake,2.0,eggs,NNS
+kitchen sink egg bake,2.0,in,IN
+kitchen sink egg bake,2.0,medium,JJ
+kitchen sink egg bake,2.0,bowl,NN
+kitchen sink egg bake,2.0,.,.
+kitchen sink egg bake,3.0,Stir,VB
+kitchen sink egg bake,3.0,in,IN
+kitchen sink egg bake,3.0,the,DT
+kitchen sink egg bake,3.0,cottage,NN
+kitchen sink egg bake,3.0,cheese,NN
+kitchen sink egg bake,3.0,",",","
+kitchen sink egg bake,3.0,grated,VBN
+kitchen sink egg bake,3.0,cheese,NN
+kitchen sink egg bake,3.0,",",","
+kitchen sink egg bake,3.0,spinach,NN
+kitchen sink egg bake,3.0,and,CC
+kitchen sink egg bake,3.0,seasonings,NNS
+kitchen sink egg bake,3.0,;,:
+kitchen sink egg bake,3.0,stir,VB
+kitchen sink egg bake,3.0,until,IN
+kitchen sink egg bake,3.0,mixed,VBN
+kitchen sink egg bake,3.0,thoroughly,RB
+kitchen sink egg bake,3.0,.,.
+kitchen sink egg bake,4.0,Distribute,VB
+kitchen sink egg bake,4.0,meat,NN
+kitchen sink egg bake,4.0,/,SYM
+kitchen sink egg bake,4.0,chicken,NN
+kitchen sink egg bake,4.0,/,SYM
+kitchen sink egg bake,4.0,ham,NN
+kitchen sink egg bake,4.0,(,-LRB-
+kitchen sink egg bake,4.0,whatever1,NN
+kitchen sink egg bake,4.0,),-RRB-
+kitchen sink egg bake,4.0,evenly,RB
+kitchen sink egg bake,4.0,over,IN
+kitchen sink egg bake,4.0,bottom,NN
+kitchen sink egg bake,4.0,of,IN
+kitchen sink egg bake,4.0,pan,NNP
+kitchen sink egg bake,4.0,.,.
+kitchen sink egg bake,5.0,Pour,NNP
+kitchen sink egg bake,5.0,cottage,NN
+kitchen sink egg bake,5.0,cheese,NN
+kitchen sink egg bake,5.0,mixture,NN
+kitchen sink egg bake,5.0,over,IN
+kitchen sink egg bake,5.0,meat,NN
+kitchen sink egg bake,5.0,;,:
+kitchen sink egg bake,5.0,push,VB
+kitchen sink egg bake,5.0,w/,NNP
+kitchen sink egg bake,5.0,spatula,NN
+kitchen sink egg bake,5.0,to,TO
+kitchen sink egg bake,5.0,distribute,VB
+kitchen sink egg bake,5.0,evenly,RB
+kitchen sink egg bake,5.0,.,.
+kitchen sink egg bake,6.0,Top,JJ
+kitchen sink egg bake,6.0,with,IN
+kitchen sink egg bake,6.0,extra,JJ
+kitchen sink egg bake,6.0,grated,JJ
+kitchen sink egg bake,6.0,cheese,NN
+kitchen sink egg bake,6.0,if,IN
+kitchen sink egg bake,6.0,desired,VBN
+kitchen sink egg bake,6.0,.,.
+kitchen sink egg bake,7.0,Sprinkle,VB
+kitchen sink egg bake,7.0,top,JJ
+kitchen sink egg bake,7.0,w/,NNP
+kitchen sink egg bake,7.0,toasted,VBN
+kitchen sink egg bake,7.0,wheat,NN
+kitchen sink egg bake,7.0,germ,NN
+kitchen sink egg bake,7.0,.,.
+kitchen sink egg bake,8.0,Bake,VB
+kitchen sink egg bake,8.0,45,CD
+kitchen sink egg bake,8.0,-,SYM
+kitchen sink egg bake,8.0,50,CD
+kitchen sink egg bake,8.0,minutes,NNS
+kitchen sink egg bake,8.0,",",","
+kitchen sink egg bake,8.0,until,IN
+kitchen sink egg bake,8.0,set,VBN
+kitchen sink egg bake,8.0,and,CC
+kitchen sink egg bake,8.0,slightly,RB
+kitchen sink egg bake,8.0,brown,JJ
+kitchen sink egg bake,8.0,at,IN
+kitchen sink egg bake,8.0,edges,NNS
+kitchen sink egg bake,8.0,.,.
+kitchen sink egg bake,9.0,Let,VB
+kitchen sink egg bake,9.0,sit,VB
+kitchen sink egg bake,9.0,a,DT
+kitchen sink egg bake,9.0,few,JJ
+kitchen sink egg bake,9.0,minutes,NNS
+kitchen sink egg bake,9.0,out,IN
+kitchen sink egg bake,9.0,of,IN
+kitchen sink egg bake,9.0,oven,NN
+kitchen sink egg bake,9.0,before,IN
+kitchen sink egg bake,9.0,serving,VBG
+kitchen sink egg bake,9.0,.,.
+kitchen sink egg bake,10.0,Serve,VB
+kitchen sink egg bake,10.0,hot,JJ
+kitchen sink egg bake,10.0,or,CC
+kitchen sink egg bake,10.0,at,IN
+kitchen sink egg bake,10.0,room,NN
+kitchen sink egg bake,10.0,temperature,NN
+kitchen sink egg bake,10.0,.,.
+land of nod cinnamon buns,0.0,Before,IN
+land of nod cinnamon buns,0.0,you,PRP
+land of nod cinnamon buns,0.0,turn,VBP
+land of nod cinnamon buns,0.0,in,RP
+land of nod cinnamon buns,0.0,for,IN
+land of nod cinnamon buns,0.0,the,DT
+land of nod cinnamon buns,0.0,night,NN
+land of nod cinnamon buns,0.0,",",","
+land of nod cinnamon buns,0.0,grease,VB
+land of nod cinnamon buns,0.0,a,DT
+land of nod cinnamon buns,0.0,10,CD
+land of nod cinnamon buns,0.0,"""",``
+land of nod cinnamon buns,0.0,bundt,NN
+land of nod cinnamon buns,0.0,pan,NN
+land of nod cinnamon buns,0.0,and,CC
+land of nod cinnamon buns,0.0,add,VB
+land of nod cinnamon buns,0.0,frozen,JJ
+land of nod cinnamon buns,0.0,rolls,NNS
+land of nod cinnamon buns,0.0,.,.
+land of nod cinnamon buns,1.0,Sprinkle,VB
+land of nod cinnamon buns,1.0,with,IN
+land of nod cinnamon buns,1.0,brown,JJ
+land of nod cinnamon buns,1.0,sugar,NN
+land of nod cinnamon buns,1.0,",",","
+land of nod cinnamon buns,1.0,pudding,NN
+land of nod cinnamon buns,1.0,powder,NN
+land of nod cinnamon buns,1.0,",",","
+land of nod cinnamon buns,1.0,cinnamon,NN
+land of nod cinnamon buns,1.0,and,CC
+land of nod cinnamon buns,1.0,raisins,NNS
+land of nod cinnamon buns,1.0,.,.
+land of nod cinnamon buns,2.0,Pour,VB
+land of nod cinnamon buns,2.0,melted,VBD
+land of nod cinnamon buns,2.0,butter,NN
+land of nod cinnamon buns,2.0,over,RB
+land of nod cinnamon buns,2.0,all,RB
+land of nod cinnamon buns,2.0,.,.
+land of nod cinnamon buns,3.0,Cover,VB
+land of nod cinnamon buns,3.0,with,IN
+land of nod cinnamon buns,3.0,a,DT
+land of nod cinnamon buns,3.0,clean,JJ
+land of nod cinnamon buns,3.0,",",","
+land of nod cinnamon buns,3.0,damp,JJ
+land of nod cinnamon buns,3.0,cloth,NN
+land of nod cinnamon buns,3.0,.,.
+land of nod cinnamon buns,4.0,(,-LRB-
+land of nod cinnamon buns,4.0,Leave,VB
+land of nod cinnamon buns,4.0,out,RP
+land of nod cinnamon buns,4.0,at,IN
+land of nod cinnamon buns,4.0,room,NN
+land of nod cinnamon buns,4.0,temperature,NN
+land of nod cinnamon buns,4.0,),-RRB-
+land of nod cinnamon buns,4.0,.,.
+land of nod cinnamon buns,5.0,Off,IN
+land of nod cinnamon buns,5.0,to,IN
+land of nod cinnamon buns,5.0,bed,NN
+land of nod cinnamon buns,5.0,you,PRP
+land of nod cinnamon buns,5.0,go,VBP
+land of nod cinnamon buns,5.0,!,.
+land of nod cinnamon buns,6.0,In,IN
+land of nod cinnamon buns,6.0,the,DT
+land of nod cinnamon buns,6.0,morning,NN
+land of nod cinnamon buns,6.0,",",","
+land of nod cinnamon buns,6.0,preheat,VB
+land of nod cinnamon buns,6.0,oven,NN
+land of nod cinnamon buns,6.0,to,IN
+land of nod cinnamon buns,6.0,350,CD
+land of nod cinnamon buns,6.0,and,CC
+land of nod cinnamon buns,6.0,bake,VB
+land of nod cinnamon buns,6.0,for,IN
+land of nod cinnamon buns,6.0,25,CD
+land of nod cinnamon buns,6.0,minutes,NNS
+land of nod cinnamon buns,6.0,.,.
+land of nod cinnamon buns,7.0,Let,VB
+land of nod cinnamon buns,7.0,sit,VB
+land of nod cinnamon buns,7.0,for,IN
+land of nod cinnamon buns,7.0,5,CD
+land of nod cinnamon buns,7.0,minutes,NNS
+land of nod cinnamon buns,7.0,and,CC
+land of nod cinnamon buns,7.0,then,RB
+land of nod cinnamon buns,7.0,turn,VB
+land of nod cinnamon buns,7.0,out,RP
+land of nod cinnamon buns,7.0,on,IN
+land of nod cinnamon buns,7.0,a,DT
+land of nod cinnamon buns,7.0,serving,VBG
+land of nod cinnamon buns,7.0,plate,NN
+land of nod cinnamon buns,7.0,.,.
+leftovers spaghetti sauce,0.0,I,PRP
+leftovers spaghetti sauce,0.0,had,VBD
+leftovers spaghetti sauce,0.0,previously,RB
+leftovers spaghetti sauce,0.0,browned,VBN
+leftovers spaghetti sauce,0.0,and,CC
+leftovers spaghetti sauce,0.0,drained,VBN
+leftovers spaghetti sauce,0.0,the,DT
+leftovers spaghetti sauce,0.0,ground,NN
+leftovers spaghetti sauce,0.0,beef,NN
+leftovers spaghetti sauce,0.0,and,CC
+leftovers spaghetti sauce,0.0,had,VBD
+leftovers spaghetti sauce,0.0,it,PRP
+leftovers spaghetti sauce,0.0,in,IN
+leftovers spaghetti sauce,0.0,the,DT
+leftovers spaghetti sauce,0.0,fridge,NN
+leftovers spaghetti sauce,0.0,",",","
+leftovers spaghetti sauce,0.0,If,IN
+leftovers spaghetti sauce,0.0,you,PRP
+leftovers spaghetti sauce,0.0,do,VBP
+leftovers spaghetti sauce,0.0,n't,RB
+leftovers spaghetti sauce,0.0,have,VB
+leftovers spaghetti sauce,0.0,this,DT
+leftovers spaghetti sauce,0.0,leftover,JJS
+leftovers spaghetti sauce,0.0,",",","
+leftovers spaghetti sauce,0.0,brown,JJ
+leftovers spaghetti sauce,0.0,ground,NN
+leftovers spaghetti sauce,0.0,beef,NN
+leftovers spaghetti sauce,0.0,first,RB
+leftovers spaghetti sauce,0.0,in,IN
+leftovers spaghetti sauce,0.0,a,DT
+leftovers spaghetti sauce,0.0,nonstick,JJ
+leftovers spaghetti sauce,0.0,skillet,NN
+leftovers spaghetti sauce,0.0,",",","
+leftovers spaghetti sauce,0.0,drain,VB
+leftovers spaghetti sauce,0.0,off,RP
+leftovers spaghetti sauce,0.0,fat,NN
+leftovers spaghetti sauce,0.0,really,RB
+leftovers spaghetti sauce,0.0,well,RB
+leftovers spaghetti sauce,0.0,.,.
+leftovers spaghetti sauce,1.0,I,PRP
+leftovers spaghetti sauce,1.0,use,VBP
+leftovers spaghetti sauce,1.0,a,DT
+leftovers spaghetti sauce,1.0,pile,NN
+leftovers spaghetti sauce,1.0,of,IN
+leftovers spaghetti sauce,1.0,paper,NN
+leftovers spaghetti sauce,1.0,towels,NNS
+leftovers spaghetti sauce,1.0,to,TO
+leftovers spaghetti sauce,1.0,soak,VB
+leftovers spaghetti sauce,1.0,up,RP
+leftovers spaghetti sauce,1.0,the,DT
+leftovers spaghetti sauce,1.0,fat,NN
+leftovers spaghetti sauce,1.0,.,.
+leftovers spaghetti sauce,2.0,Place,NNP
+leftovers spaghetti sauce,2.0,ground,NN
+leftovers spaghetti sauce,2.0,beef,NN
+leftovers spaghetti sauce,2.0,in,IN
+leftovers spaghetti sauce,2.0,a,DT
+leftovers spaghetti sauce,2.0,large,JJ
+leftovers spaghetti sauce,2.0,pot,NN
+leftovers spaghetti sauce,2.0,.,.
+leftovers spaghetti sauce,3.0,Stir,VB
+leftovers spaghetti sauce,3.0,in,IN
+leftovers spaghetti sauce,3.0,all,DT
+leftovers spaghetti sauce,3.0,other,JJ
+leftovers spaghetti sauce,3.0,ingredients,NNS
+leftovers spaghetti sauce,3.0,except,IN
+leftovers spaghetti sauce,3.0,the,DT
+leftovers spaghetti sauce,3.0,sugar,NN
+leftovers spaghetti sauce,3.0,.,.
+leftovers spaghetti sauce,4.0,Bring,VB
+leftovers spaghetti sauce,4.0,to,IN
+leftovers spaghetti sauce,4.0,a,DT
+leftovers spaghetti sauce,4.0,boil,NN
+leftovers spaghetti sauce,4.0,",",","
+leftovers spaghetti sauce,4.0,stirring,VBG
+leftovers spaghetti sauce,4.0,occasionally,RB
+leftovers spaghetti sauce,4.0,.,.
+leftovers spaghetti sauce,5.0,Turn,VB
+leftovers spaghetti sauce,5.0,heat,NN
+leftovers spaghetti sauce,5.0,down,RP
+leftovers spaghetti sauce,5.0,to,IN
+leftovers spaghetti sauce,5.0,low,JJ
+leftovers spaghetti sauce,5.0,and,CC
+leftovers spaghetti sauce,5.0,simmer,VB
+leftovers spaghetti sauce,5.0,uncovered,JJ
+leftovers spaghetti sauce,5.0,or,CC
+leftovers spaghetti sauce,5.0,covered,VBN
+leftovers spaghetti sauce,5.0,for,IN
+leftovers spaghetti sauce,5.0,about,RB
+leftovers spaghetti sauce,5.0,30,CD
+leftovers spaghetti sauce,5.0,minutes,NNS
+leftovers spaghetti sauce,5.0,or,CC
+leftovers spaghetti sauce,5.0,so,RB
+leftovers spaghetti sauce,5.0,to,TO
+leftovers spaghetti sauce,5.0,let,VB
+leftovers spaghetti sauce,5.0,the,DT
+leftovers spaghetti sauce,5.0,flavors,NNS
+leftovers spaghetti sauce,5.0,mix,VB
+leftovers spaghetti sauce,5.0,",",","
+leftovers spaghetti sauce,5.0,stirring,VBG
+leftovers spaghetti sauce,5.0,occasionally,RB
+leftovers spaghetti sauce,5.0,.,.
+leftovers spaghetti sauce,6.0,Taste,VB
+leftovers spaghetti sauce,6.0,the,DT
+leftovers spaghetti sauce,6.0,sauce,NN
+leftovers spaghetti sauce,6.0,now,RB
+leftovers spaghetti sauce,6.0,and,CC
+leftovers spaghetti sauce,6.0,then,RB
+leftovers spaghetti sauce,6.0,and,CC
+leftovers spaghetti sauce,6.0,add,VB
+leftovers spaghetti sauce,6.0,more,JJR
+leftovers spaghetti sauce,6.0,onions,NNS
+leftovers spaghetti sauce,6.0,or,CC
+leftovers spaghetti sauce,6.0,garlic,NN
+leftovers spaghetti sauce,6.0,to,TO
+leftovers spaghetti sauce,6.0,taste,VB
+leftovers spaghetti sauce,6.0,.,.
+leftovers spaghetti sauce,7.0,Add,VB
+leftovers spaghetti sauce,7.0,a,DT
+leftovers spaghetti sauce,7.0,little,JJ
+leftovers spaghetti sauce,7.0,sugar,NN
+leftovers spaghetti sauce,7.0,to,TO
+leftovers spaghetti sauce,7.0,neutralize,VB
+leftovers spaghetti sauce,7.0,the,DT
+leftovers spaghetti sauce,7.0,acidity,NN
+leftovers spaghetti sauce,7.0,of,IN
+leftovers spaghetti sauce,7.0,the,DT
+leftovers spaghetti sauce,7.0,tomatoes,NNS
+leftovers spaghetti sauce,7.0,during,IN
+leftovers spaghetti sauce,7.0,the,DT
+leftovers spaghetti sauce,7.0,simmering,NN
+leftovers spaghetti sauce,7.0,.,.
+leftovers spaghetti sauce,8.0,Serve,VB
+leftovers spaghetti sauce,8.0,over,IN
+leftovers spaghetti sauce,8.0,hot,JJ
+leftovers spaghetti sauce,8.0,spaghetti,NNS
+leftovers spaghetti sauce,8.0,noodles,NNS
+leftovers spaghetti sauce,8.0,.,.
+leftovers spaghetti sauce,9.0,The,DT
+leftovers spaghetti sauce,9.0,sauce,NN
+leftovers spaghetti sauce,9.0,should,MD
+leftovers spaghetti sauce,9.0,be,VB
+leftovers spaghetti sauce,9.0,fairly,RB
+leftovers spaghetti sauce,9.0,thick,JJ
+leftovers spaghetti sauce,9.0,",",","
+leftovers spaghetti sauce,9.0,not,RB
+leftovers spaghetti sauce,9.0,runny,JJ
+leftovers spaghetti sauce,9.0,",",","
+leftovers spaghetti sauce,9.0,so,IN
+leftovers spaghetti sauce,9.0,as,IN
+leftovers spaghetti sauce,9.0,you,PRP
+leftovers spaghetti sauce,9.0,add,VBP
+leftovers spaghetti sauce,9.0,in,IN
+leftovers spaghetti sauce,9.0,the,DT
+leftovers spaghetti sauce,9.0,ingredients,NNS
+leftovers spaghetti sauce,9.0,",",","
+leftovers spaghetti sauce,9.0,use,VB
+leftovers spaghetti sauce,9.0,more,RBR
+leftovers spaghetti sauce,9.0,or,CC
+leftovers spaghetti sauce,9.0,less,JJR
+leftovers spaghetti sauce,9.0,of,IN
+leftovers spaghetti sauce,9.0,the,DT
+leftovers spaghetti sauce,9.0,Prego,NNP
+leftovers spaghetti sauce,9.0,as,IN
+leftovers spaghetti sauce,9.0,needed,VBN
+leftovers spaghetti sauce,9.0,.,.
+leftovers spaghetti sauce,10.0,If,IN
+leftovers spaghetti sauce,10.0,too,RB
+leftovers spaghetti sauce,10.0,thick,JJ
+leftovers spaghetti sauce,10.0,",",","
+leftovers spaghetti sauce,10.0,add,VB
+leftovers spaghetti sauce,10.0,a,DT
+leftovers spaghetti sauce,10.0,little,JJ
+leftovers spaghetti sauce,10.0,water,NN
+leftovers spaghetti sauce,10.0,",",","
+leftovers spaghetti sauce,10.0,more,JJR
+leftovers spaghetti sauce,10.0,Prego,NNP
+leftovers spaghetti sauce,10.0,",",","
+leftovers spaghetti sauce,10.0,or,CC
+leftovers spaghetti sauce,10.0,more,RBR
+leftovers spaghetti sauce,10.0,stewed,JJ
+leftovers spaghetti sauce,10.0,tomatoes,NNS
+leftovers spaghetti sauce,10.0,with,IN
+leftovers spaghetti sauce,10.0,juice,NN
+leftovers spaghetti sauce,10.0,.,.
+leftovers spaghetti sauce,11.0,When,WRB
+leftovers spaghetti sauce,11.0,I,PRP
+leftovers spaghetti sauce,11.0,made,VBD
+leftovers spaghetti sauce,11.0,mine,PRP
+leftovers spaghetti sauce,11.0,",",","
+leftovers spaghetti sauce,11.0,it,PRP
+leftovers spaghetti sauce,11.0,was,VBD
+leftovers spaghetti sauce,11.0,the,DT
+leftovers spaghetti sauce,11.0,consistency,NN
+leftovers spaghetti sauce,11.0,of,IN
+leftovers spaghetti sauce,11.0,chili,NN
+leftovers spaghetti sauce,11.0,.,.
+leftovers spaghetti sauce,12.0,This,DT
+leftovers spaghetti sauce,12.0,makes,VBZ
+leftovers spaghetti sauce,12.0,a,DT
+leftovers spaghetti sauce,12.0,pretty,RB
+leftovers spaghetti sauce,12.0,decent,JJ
+leftovers spaghetti sauce,12.0,batch,NN
+leftovers spaghetti sauce,12.0,",",","
+leftovers spaghetti sauce,12.0,can,MD
+leftovers spaghetti sauce,12.0,feed,VB
+leftovers spaghetti sauce,12.0,2,CD
+leftovers spaghetti sauce,12.0,-,SYM
+leftovers spaghetti sauce,12.0,4,CD
+leftovers spaghetti sauce,12.0,depending,VBG
+leftovers spaghetti sauce,12.0,on,IN
+leftovers spaghetti sauce,12.0,how,WRB
+leftovers spaghetti sauce,12.0,much,JJ
+leftovers spaghetti sauce,12.0,everyone,NN
+leftovers spaghetti sauce,12.0,eats,VBZ
+leftovers spaghetti sauce,12.0,in,IN
+leftovers spaghetti sauce,12.0,a,DT
+leftovers spaghetti sauce,12.0,serving,NN
+leftovers spaghetti sauce,12.0,.,.
+love is in the air beef fondue sauces,0.0,Honey,NNP
+love is in the air beef fondue sauces,0.0,Mustard,NNP
+love is in the air beef fondue sauces,0.0,Sauce,NNP
+love is in the air beef fondue sauces,0.0,:,:
+love is in the air beef fondue sauces,0.0,Whisk,VB
+love is in the air beef fondue sauces,0.0,all,PDT
+love is in the air beef fondue sauces,0.0,the,DT
+love is in the air beef fondue sauces,0.0,ingredients,NNS
+love is in the air beef fondue sauces,0.0,together,RB
+love is in the air beef fondue sauces,0.0,Serve,VBP
+love is in the air beef fondue sauces,0.0,warm,JJ
+love is in the air beef fondue sauces,0.0,or,CC
+love is in the air beef fondue sauces,0.0,cold,JJ
+love is in the air beef fondue sauces,0.0,.,.
+love is in the air beef fondue sauces,1.0,Easy,JJ
+love is in the air beef fondue sauces,1.0,BBQ,NNP
+love is in the air beef fondue sauces,1.0,Sauce,NNP
+love is in the air beef fondue sauces,1.0,:,:
+love is in the air beef fondue sauces,1.0,Combine,VB
+love is in the air beef fondue sauces,1.0,all,DT
+love is in the air beef fondue sauces,1.0,ingredients,NNS
+love is in the air beef fondue sauces,1.0,in,IN
+love is in the air beef fondue sauces,1.0,a,DT
+love is in the air beef fondue sauces,1.0,pot,NN
+love is in the air beef fondue sauces,1.0,&,CC
+love is in the air beef fondue sauces,1.0,cook,VB
+love is in the air beef fondue sauces,1.0,over,IN
+love is in the air beef fondue sauces,1.0,low,JJ
+love is in the air beef fondue sauces,1.0,heat,NN
+love is in the air beef fondue sauces,1.0,until,IN
+love is in the air beef fondue sauces,1.0,the,DT
+love is in the air beef fondue sauces,1.0,sugar,NN
+love is in the air beef fondue sauces,1.0,is,VBZ
+love is in the air beef fondue sauces,1.0,dissolved,VBN
+love is in the air beef fondue sauces,1.0,.,.
+love is in the air beef fondue sauces,2.0,Serve,VB
+love is in the air beef fondue sauces,2.0,warm,JJ
+love is in the air beef fondue sauces,2.0,or,CC
+love is in the air beef fondue sauces,2.0,cold,JJ
+love is in the air beef fondue sauces,2.0,.,.
+love is in the air beef fondue sauces,3.0,Garlic,NNP
+love is in the air beef fondue sauces,3.0,Dill,NNP
+love is in the air beef fondue sauces,3.0,Sauce,NNP
+love is in the air beef fondue sauces,3.0,:,:
+love is in the air beef fondue sauces,3.0,Mix,VB
+love is in the air beef fondue sauces,3.0,all,PDT
+love is in the air beef fondue sauces,3.0,the,DT
+love is in the air beef fondue sauces,3.0,ingredients,NNS
+love is in the air beef fondue sauces,3.0,and,CC
+love is in the air beef fondue sauces,3.0,chill,VB
+love is in the air beef fondue sauces,3.0,until,RB
+love is in the air beef fondue sauces,3.0,ready,JJ
+love is in the air beef fondue sauces,3.0,to,TO
+love is in the air beef fondue sauces,3.0,serve,VB
+love is in the air beef fondue sauces,3.0,.,.
+make it your way shortcakes,0.0,Pre,JJ
+make it your way shortcakes,0.0,-,NN
+make it your way shortcakes,0.0,heat,VB
+make it your way shortcakes,0.0,the,DT
+make it your way shortcakes,0.0,oven,NN
+make it your way shortcakes,0.0,to,IN
+make it your way shortcakes,0.0,450,CD
+make it your way shortcakes,0.0,.,.
+make it your way shortcakes,1.0,Sift,VB
+make it your way shortcakes,1.0,together,RB
+make it your way shortcakes,1.0,the,DT
+make it your way shortcakes,1.0,flour,NN
+make it your way shortcakes,1.0,",",","
+make it your way shortcakes,1.0,salt,NN
+make it your way shortcakes,1.0,and,CC
+make it your way shortcakes,1.0,baking,NN
+make it your way shortcakes,1.0,powder,NN
+make it your way shortcakes,1.0,.,.
+make it your way shortcakes,2.0,Mix,VB
+make it your way shortcakes,2.0,in,IN
+make it your way shortcakes,2.0,the,DT
+make it your way shortcakes,2.0,sugar,NN
+make it your way shortcakes,2.0,.,.
+make it your way shortcakes,3.0,Cut,VB
+make it your way shortcakes,3.0,in,IN
+make it your way shortcakes,3.0,the,DT
+make it your way shortcakes,3.0,butter,NN
+make it your way shortcakes,3.0,with,IN
+make it your way shortcakes,3.0,a,DT
+make it your way shortcakes,3.0,fork,NN
+make it your way shortcakes,3.0,until,IN
+make it your way shortcakes,3.0,meal,NN
+make it your way shortcakes,3.0,-,HYPH
+make it your way shortcakes,3.0,like,JJ
+make it your way shortcakes,3.0,crumbs,NNS
+make it your way shortcakes,3.0,form,NN
+make it your way shortcakes,3.0,.,.
+make it your way shortcakes,4.0,Lightly,RB
+make it your way shortcakes,4.0,beat,VB
+make it your way shortcakes,4.0,the,DT
+make it your way shortcakes,4.0,egg,NN
+make it your way shortcakes,4.0,in,IN
+make it your way shortcakes,4.0,a,DT
+make it your way shortcakes,4.0,separate,JJ
+make it your way shortcakes,4.0,bowl,NN
+make it your way shortcakes,4.0,.,.
+make it your way shortcakes,5.0,Add,VB
+make it your way shortcakes,5.0,the,DT
+make it your way shortcakes,5.0,milk,NN
+make it your way shortcakes,5.0,.,.
+make it your way shortcakes,6.0,Add,VB
+make it your way shortcakes,6.0,to,IN
+make it your way shortcakes,6.0,the,DT
+make it your way shortcakes,6.0,flour,NN
+make it your way shortcakes,6.0,mixture,NN
+make it your way shortcakes,6.0,.,.
+make it your way shortcakes,7.0,Briefly,RB
+make it your way shortcakes,7.0,knead,VB
+make it your way shortcakes,7.0,on,RP
+make it your way shortcakes,7.0,a,DT
+make it your way shortcakes,7.0,floured,JJ
+make it your way shortcakes,7.0,board,NN
+make it your way shortcakes,7.0,.,.
+make it your way shortcakes,8.0,Roll,VB
+make it your way shortcakes,8.0,out,RP
+make it your way shortcakes,8.0,to,TO
+make it your way shortcakes,8.0,1/2,CD
+make it your way shortcakes,8.0,–,:
+make it your way shortcakes,8.0,inch,NN
+make it your way shortcakes,8.0,thick,JJ
+make it your way shortcakes,8.0,.,.
+make it your way shortcakes,9.0,Cut,VBN
+make it your way shortcakes,9.0,into,IN
+make it your way shortcakes,9.0,2,CD
+make it your way shortcakes,9.0,"""",``
+make it your way shortcakes,9.0,squares,NNS
+make it your way shortcakes,9.0,.,.
+make it your way shortcakes,10.0,Place,NN
+make it your way shortcakes,10.0,on,IN
+make it your way shortcakes,10.0,a,DT
+make it your way shortcakes,10.0,greased,JJ
+make it your way shortcakes,10.0,baking,NN
+make it your way shortcakes,10.0,sheet,NN
+make it your way shortcakes,10.0,and,CC
+make it your way shortcakes,10.0,cook,VB
+make it your way shortcakes,10.0,for,IN
+make it your way shortcakes,10.0,10,CD
+make it your way shortcakes,10.0,minutes,NNS
+make it your way shortcakes,10.0,(,-LRB-
+make it your way shortcakes,10.0,or,CC
+make it your way shortcakes,10.0,until,IN
+make it your way shortcakes,10.0,golden,NNP
+make it your way shortcakes,10.0,brown,NNP
+make it your way shortcakes,10.0,),-RRB-
+make it your way shortcakes,10.0,.,.
+make that chicken dance salsa pasta,0.0,Heat,NN
+make that chicken dance salsa pasta,0.0,oil,NN
+make that chicken dance salsa pasta,0.0,in,IN
+make that chicken dance salsa pasta,0.0,a,DT
+make that chicken dance salsa pasta,0.0,frying,NN
+make that chicken dance salsa pasta,0.0,pan,NN
+make that chicken dance salsa pasta,0.0,and,CC
+make that chicken dance salsa pasta,0.0,sauté,VB
+make that chicken dance salsa pasta,0.0,the,DT
+make that chicken dance salsa pasta,0.0,onions,NNS
+make that chicken dance salsa pasta,0.0,and,CC
+make that chicken dance salsa pasta,0.0,mushrooms,NNS
+make that chicken dance salsa pasta,0.0,until,IN
+make that chicken dance salsa pasta,0.0,soft,JJ
+make that chicken dance salsa pasta,0.0,",",","
+make that chicken dance salsa pasta,0.0,about,RB
+make that chicken dance salsa pasta,0.0,two,CD
+make that chicken dance salsa pasta,0.0,minutes,NNS
+make that chicken dance salsa pasta,0.0,.,.
+make that chicken dance salsa pasta,1.0,Add,VB
+make that chicken dance salsa pasta,1.0,the,DT
+make that chicken dance salsa pasta,1.0,water,NN
+make that chicken dance salsa pasta,1.0,",",","
+make that chicken dance salsa pasta,1.0,tomatoes,NNS
+make that chicken dance salsa pasta,1.0,(,-LRB-
+make that chicken dance salsa pasta,1.0,with,IN
+make that chicken dance salsa pasta,1.0,all,PDT
+make that chicken dance salsa pasta,1.0,their,PRP$
+make that chicken dance salsa pasta,1.0,seeds,NNS
+make that chicken dance salsa pasta,1.0,and,CC
+make that chicken dance salsa pasta,1.0,juice,NN
+make that chicken dance salsa pasta,1.0,),-RRB-
+make that chicken dance salsa pasta,1.0,",",","
+make that chicken dance salsa pasta,1.0,garlic,NN
+make that chicken dance salsa pasta,1.0,",",","
+make that chicken dance salsa pasta,1.0,oregano,NN
+make that chicken dance salsa pasta,1.0,",",","
+make that chicken dance salsa pasta,1.0,basil,NN
+make that chicken dance salsa pasta,1.0,",",","
+make that chicken dance salsa pasta,1.0,parsley,NN
+make that chicken dance salsa pasta,1.0,and,CC
+make that chicken dance salsa pasta,1.0,hot,JJ
+make that chicken dance salsa pasta,1.0,sauce,NN
+make that chicken dance salsa pasta,1.0,.,.
+make that chicken dance salsa pasta,2.0,Simmer,VB
+make that chicken dance salsa pasta,2.0,over,IN
+make that chicken dance salsa pasta,2.0,low,JJ
+make that chicken dance salsa pasta,2.0,heat,NN
+make that chicken dance salsa pasta,2.0,for,IN
+make that chicken dance salsa pasta,2.0,6,CD
+make that chicken dance salsa pasta,2.0,-,SYM
+make that chicken dance salsa pasta,2.0,10,CD
+make that chicken dance salsa pasta,2.0,minutes,NNS
+make that chicken dance salsa pasta,2.0,or,CC
+make that chicken dance salsa pasta,2.0,until,IN
+make that chicken dance salsa pasta,2.0,tomatoes,NNS
+make that chicken dance salsa pasta,2.0,are,VBP
+make that chicken dance salsa pasta,2.0,soft,JJ
+make that chicken dance salsa pasta,2.0,and,CC
+make that chicken dance salsa pasta,2.0,enough,JJ
+make that chicken dance salsa pasta,2.0,water,NN
+make that chicken dance salsa pasta,2.0,has,VBZ
+make that chicken dance salsa pasta,2.0,evaporated,VBN
+make that chicken dance salsa pasta,2.0,to,TO
+make that chicken dance salsa pasta,2.0,form,VB
+make that chicken dance salsa pasta,2.0,a,DT
+make that chicken dance salsa pasta,2.0,relatively,RB
+make that chicken dance salsa pasta,2.0,thick,JJ
+make that chicken dance salsa pasta,2.0,sauce,NN
+make that chicken dance salsa pasta,2.0,.,.
+make that chicken dance salsa pasta,3.0,Add,VB
+make that chicken dance salsa pasta,3.0,salsa,NN
+make that chicken dance salsa pasta,3.0,and,CC
+make that chicken dance salsa pasta,3.0,chicken,NN
+make that chicken dance salsa pasta,3.0,.,.
+make that chicken dance salsa pasta,4.0,Simmer,VB
+make that chicken dance salsa pasta,4.0,until,IN
+make that chicken dance salsa pasta,4.0,heated,VBN
+make that chicken dance salsa pasta,4.0,through,RB
+make that chicken dance salsa pasta,4.0,.,.
+make that chicken dance salsa pasta,5.0,Cook,VB
+make that chicken dance salsa pasta,5.0,pasta,NN
+make that chicken dance salsa pasta,5.0,of,IN
+make that chicken dance salsa pasta,5.0,your,PRP$
+make that chicken dance salsa pasta,5.0,choice,NN
+make that chicken dance salsa pasta,5.0,(,-LRB-
+make that chicken dance salsa pasta,5.0,I,PRP
+make that chicken dance salsa pasta,5.0,like,VBP
+make that chicken dance salsa pasta,5.0,fusilli,NN
+make that chicken dance salsa pasta,5.0,or,CC
+make that chicken dance salsa pasta,5.0,penne,NN
+make that chicken dance salsa pasta,5.0,),-RRB-
+make that chicken dance salsa pasta,5.0,until,IN
+make that chicken dance salsa pasta,5.0,al,NNP
+make that chicken dance salsa pasta,5.0,dente,NNP
+make that chicken dance salsa pasta,5.0,.,.
+make that chicken dance salsa pasta,6.0,Serve,VB
+make that chicken dance salsa pasta,6.0,sauce,NN
+make that chicken dance salsa pasta,6.0,over,IN
+make that chicken dance salsa pasta,6.0,hot,JJ
+make that chicken dance salsa pasta,6.0,pasta,NN
+make that chicken dance salsa pasta,6.0,",",","
+make that chicken dance salsa pasta,6.0,top,JJ
+make that chicken dance salsa pasta,6.0,with,IN
+make that chicken dance salsa pasta,6.0,parmesan,NN
+make that chicken dance salsa pasta,6.0,cheese,NN
+make that chicken dance salsa pasta,6.0,and,CC
+make that chicken dance salsa pasta,6.0,freshly,RB
+make that chicken dance salsa pasta,6.0,ground,VBN
+make that chicken dance salsa pasta,6.0,black,JJ
+make that chicken dance salsa pasta,6.0,pepper,NN
+make that chicken dance salsa pasta,6.0,.,.
+marijuana vinegar,0.0,Mix,VB
+marijuana vinegar,0.0,the,DT
+marijuana vinegar,0.0,herbs,NNS
+marijuana vinegar,0.0,and,CC
+marijuana vinegar,0.0,vinegar,NN
+marijuana vinegar,0.0,together,RB
+marijuana vinegar,0.0,in,IN
+marijuana vinegar,0.0,a,DT
+marijuana vinegar,0.0,jar,NN
+marijuana vinegar,0.0,.,.
+marijuana vinegar,1.0,Seal,VB
+marijuana vinegar,1.0,and,CC
+marijuana vinegar,1.0,leave,VB
+marijuana vinegar,1.0,in,IN
+marijuana vinegar,1.0,a,DT
+marijuana vinegar,1.0,warm,JJ
+marijuana vinegar,1.0,place,NN
+marijuana vinegar,1.0,for,IN
+marijuana vinegar,1.0,2,CD
+marijuana vinegar,1.0,weeks,NNS
+marijuana vinegar,1.0,",",","
+marijuana vinegar,1.0,shaking,VBG
+marijuana vinegar,1.0,often,RB
+marijuana vinegar,1.0,.,.
+marijuana vinegar,2.0,Strain,VB
+marijuana vinegar,2.0,the,DT
+marijuana vinegar,2.0,vinegar,NN
+marijuana vinegar,2.0,through,IN
+marijuana vinegar,2.0,cheesecloth,NN
+marijuana vinegar,2.0,and,CC
+marijuana vinegar,2.0,then,RB
+marijuana vinegar,2.0,through,IN
+marijuana vinegar,2.0,coffee,NN
+marijuana vinegar,2.0,filter,NN
+marijuana vinegar,2.0,paper,NN
+marijuana vinegar,2.0,.,.
+marijuana vinegar,3.0,Pour,VB
+marijuana vinegar,3.0,into,IN
+marijuana vinegar,3.0,sterilised,VBN
+marijuana vinegar,3.0,bottles,NNS
+marijuana vinegar,3.0,and,CC
+marijuana vinegar,3.0,add,VB
+marijuana vinegar,3.0,2,CD
+marijuana vinegar,3.0,-,SYM
+marijuana vinegar,3.0,3,CD
+marijuana vinegar,3.0,sprigs,NNS
+marijuana vinegar,3.0,of,IN
+marijuana vinegar,3.0,fresh,JJ
+marijuana vinegar,3.0,herb,NN
+marijuana vinegar,3.0,to,IN
+marijuana vinegar,3.0,each,DT
+marijuana vinegar,3.0,bottle,NN
+marijuana vinegar,3.0,.,.
+marijuana vinegar,4.0,Seal,VB
+marijuana vinegar,4.0,with,IN
+marijuana vinegar,4.0,acid,JJ
+marijuana vinegar,4.0,-,HYPH
+marijuana vinegar,4.0,proof,NN
+marijuana vinegar,4.0,lids,NNS
+marijuana vinegar,4.0,or,CC
+marijuana vinegar,4.0,bottle,NN
+marijuana vinegar,4.0,tops,NNS
+marijuana vinegar,4.0,.,.
+mennonite corn fritters,0.0,Combine,VB
+mennonite corn fritters,0.0,eggs,NNS
+mennonite corn fritters,0.0,",",","
+mennonite corn fritters,0.0,flour,NN
+mennonite corn fritters,0.0,",",","
+mennonite corn fritters,0.0,baking,NN
+mennonite corn fritters,0.0,powder,NN
+mennonite corn fritters,0.0,",",","
+mennonite corn fritters,0.0,salt,NN
+mennonite corn fritters,0.0,&,CC
+mennonite corn fritters,0.0,pepper,NN
+mennonite corn fritters,0.0,with,IN
+mennonite corn fritters,0.0,the,DT
+mennonite corn fritters,0.0,corn,NN
+mennonite corn fritters,0.0,.,.
+mennonite corn fritters,1.0,Mix,VB
+mennonite corn fritters,1.0,thoroughly,RB
+mennonite corn fritters,1.0,.,.
+mennonite corn fritters,2.0,Add,VB
+mennonite corn fritters,2.0,cream,NN
+mennonite corn fritters,2.0,to,IN
+mennonite corn fritters,2.0,mixture,NN
+mennonite corn fritters,2.0,.,.
+mennonite corn fritters,3.0,Melt,VB
+mennonite corn fritters,3.0,fat,NN
+mennonite corn fritters,3.0,in,IN
+mennonite corn fritters,3.0,frying,VBG
+mennonite corn fritters,3.0,pan,NN
+mennonite corn fritters,3.0,&,CC
+mennonite corn fritters,3.0,drop,VB
+mennonite corn fritters,3.0,corn,NN
+mennonite corn fritters,3.0,mixture,NN
+mennonite corn fritters,3.0,by,IN
+mennonite corn fritters,3.0,spoonfuls,NNS
+mennonite corn fritters,3.0,into,IN
+mennonite corn fritters,3.0,the,DT
+mennonite corn fritters,3.0,hot,JJ
+mennonite corn fritters,3.0,fat,NN
+mennonite corn fritters,3.0,.,.
+mennonite corn fritters,4.0,Brown,JJ
+mennonite corn fritters,4.0,on,IN
+mennonite corn fritters,4.0,both,DT
+mennonite corn fritters,4.0,sides,NNS
+mennonite corn fritters,4.0,.,.
+mennonite corn fritters,5.0,Serve,VB
+mennonite corn fritters,5.0,w/,NNP
+mennonite corn fritters,5.0,syrup,NN
+mennonite corn fritters,5.0,.,.
+mennonite corn fritters,6.0,(,-LRB-
+mennonite corn fritters,6.0,pancake,NN
+mennonite corn fritters,6.0,/,SYM
+mennonite corn fritters,6.0,waffle,NN
+mennonite corn fritters,6.0,syrup,NN
+mennonite corn fritters,6.0,),-RRB-
+mennonite corn fritters,6.0,.,.
+mexican pasta,0.0,Boil,NNP
+mexican pasta,0.0,pasta,NN
+mexican pasta,0.0,as,IN
+mexican pasta,0.0,directed,VBN
+mexican pasta,0.0,on,IN
+mexican pasta,0.0,package,NN
+mexican pasta,0.0,.,.
+mexican pasta,1.0,Drain,VB
+mexican pasta,1.0,and,CC
+mexican pasta,1.0,put,VBD
+mexican pasta,1.0,in,RP
+mexican pasta,1.0,large,JJ
+mexican pasta,1.0,serving,VBG
+mexican pasta,1.0,bowl,NN
+mexican pasta,1.0,.,.
+mexican pasta,2.0,Mix,VB
+mexican pasta,2.0,picante,NN
+mexican pasta,2.0,sauce,NN
+mexican pasta,2.0,",",","
+mexican pasta,2.0,milk,NN
+mexican pasta,2.0,",",","
+mexican pasta,2.0,and,CC
+mexican pasta,2.0,cheese,NN
+mexican pasta,2.0,soup,NN
+mexican pasta,2.0,in,IN
+mexican pasta,2.0,a,DT
+mexican pasta,2.0,smaller,JJR
+mexican pasta,2.0,bowl,NN
+mexican pasta,2.0,until,IN
+mexican pasta,2.0,creamy,JJ
+mexican pasta,2.0,.,.
+mexican pasta,3.0,Heat,NN
+mexican pasta,3.0,in,IN
+mexican pasta,3.0,microwave,NN
+mexican pasta,3.0,until,IN
+mexican pasta,3.0,warm,JJ
+mexican pasta,3.0,.,.
+mexican pasta,4.0,Mix,NN
+mexican pasta,4.0,sauce,NN
+mexican pasta,4.0,and,CC
+mexican pasta,4.0,pasta,NN
+mexican pasta,4.0,together,RB
+mexican pasta,4.0,and,CC
+mexican pasta,4.0,garnish,VB
+mexican pasta,4.0,with,IN
+mexican pasta,4.0,olives,NNS
+mexican pasta,4.0,and,CC
+mexican pasta,4.0,jalepenos,NNS
+mexican pasta,4.0,if,IN
+mexican pasta,4.0,desired,VBN
+mexican pasta,4.0,.,.
+mock a mole low fat guacamole,0.0,Thaw,VB
+mock a mole low fat guacamole,0.0,peas,NNS
+mock a mole low fat guacamole,0.0,by,IN
+mock a mole low fat guacamole,0.0,running,VBG
+mock a mole low fat guacamole,0.0,hot,JJ
+mock a mole low fat guacamole,0.0,water,NN
+mock a mole low fat guacamole,0.0,over,IN
+mock a mole low fat guacamole,0.0,them,PRP
+mock a mole low fat guacamole,0.0,in,IN
+mock a mole low fat guacamole,0.0,a,DT
+mock a mole low fat guacamole,0.0,strainer,NN
+mock a mole low fat guacamole,0.0,until,IN
+mock a mole low fat guacamole,0.0,they,PRP
+mock a mole low fat guacamole,0.0,are,VBP
+mock a mole low fat guacamole,0.0,bright,JJ
+mock a mole low fat guacamole,0.0,green,JJ
+mock a mole low fat guacamole,0.0,.,.
+mock a mole low fat guacamole,1.0,Puree,VB
+mock a mole low fat guacamole,1.0,peas,NNS
+mock a mole low fat guacamole,1.0,in,IN
+mock a mole low fat guacamole,1.0,food,NN
+mock a mole low fat guacamole,1.0,processor,NN
+mock a mole low fat guacamole,1.0,.,.
+mock a mole low fat guacamole,2.0,Add,VB
+mock a mole low fat guacamole,2.0,1/4,CD
+mock a mole low fat guacamole,2.0,of,IN
+mock a mole low fat guacamole,2.0,one,CD
+mock a mole low fat guacamole,2.0,avocado,NN
+mock a mole low fat guacamole,2.0,",",","
+mock a mole low fat guacamole,2.0,salt,NN
+mock a mole low fat guacamole,2.0,",",","
+mock a mole low fat guacamole,2.0,and,CC
+mock a mole low fat guacamole,2.0,juice,NN
+mock a mole low fat guacamole,2.0,of,IN
+mock a mole low fat guacamole,2.0,one,CD
+mock a mole low fat guacamole,2.0,lemon,NN
+mock a mole low fat guacamole,2.0,or,CC
+mock a mole low fat guacamole,2.0,lime,NN
+mock a mole low fat guacamole,2.0,.,.
+mock a mole low fat guacamole,3.0,Puree,NN
+mock a mole low fat guacamole,3.0,again,RB
+mock a mole low fat guacamole,3.0,and,CC
+mock a mole low fat guacamole,3.0,transfer,VB
+mock a mole low fat guacamole,3.0,to,IN
+mock a mole low fat guacamole,3.0,a,DT
+mock a mole low fat guacamole,3.0,bowl,NN
+mock a mole low fat guacamole,3.0,.,.
+mock a mole low fat guacamole,4.0,Coarsely,RB
+mock a mole low fat guacamole,4.0,mash,VB
+mock a mole low fat guacamole,4.0,the,DT
+mock a mole low fat guacamole,4.0,remaining,VBG
+mock a mole low fat guacamole,4.0,avocado,NN
+mock a mole low fat guacamole,4.0,(,-LRB-
+mock a mole low fat guacamole,4.0,leave,VB
+mock a mole low fat guacamole,4.0,chunky,JJ
+mock a mole low fat guacamole,4.0,),-RRB-
+mock a mole low fat guacamole,4.0,and,CC
+mock a mole low fat guacamole,4.0,stir,VB
+mock a mole low fat guacamole,4.0,in,IN
+mock a mole low fat guacamole,4.0,tomato,NN
+mock a mole low fat guacamole,4.0,and,CC
+mock a mole low fat guacamole,4.0,onion,NN
+mock a mole low fat guacamole,4.0,.,.
+mock a mole low fat guacamole,5.0,Taste,VB
+mock a mole low fat guacamole,5.0,and,CC
+mock a mole low fat guacamole,5.0,add,VB
+mock a mole low fat guacamole,5.0,more,JJR
+mock a mole low fat guacamole,5.0,salt,NN
+mock a mole low fat guacamole,5.0,/,SYM
+mock a mole low fat guacamole,5.0,lemon,NN
+mock a mole low fat guacamole,5.0,to,IN
+mock a mole low fat guacamole,5.0,your,PRP$
+mock a mole low fat guacamole,5.0,taste,NN
+mock a mole low fat guacamole,5.0,.,.
+mock a mole low fat guacamole,6.0,Stir,VB
+mock a mole low fat guacamole,6.0,in,IN
+mock a mole low fat guacamole,6.0,cilantro,NN
+mock a mole low fat guacamole,6.0,.,.
+momma s special marinade,0.0,Depending,VBG
+momma s special marinade,0.0,on,IN
+momma s special marinade,0.0,how,WRB
+momma s special marinade,0.0,much,JJ
+momma s special marinade,0.0,meat,NN
+momma s special marinade,0.0,I,PRP
+momma s special marinade,0.0,have,VBP
+momma s special marinade,0.0,I,PRP
+momma s special marinade,0.0,usually,RB
+momma s special marinade,0.0,have,VBP
+momma s special marinade,0.0,to,TO
+momma s special marinade,0.0,either,CC
+momma s special marinade,0.0,double,JJ
+momma s special marinade,0.0,or,CC
+momma s special marinade,0.0,triple,JJ
+momma s special marinade,0.0,this,DT
+momma s special marinade,0.0,recipe,NN
+momma s special marinade,0.0,The,DT
+momma s special marinade,0.0,longer,RB
+momma s special marinade,0.0,your,PRP$
+momma s special marinade,0.0,meat,NN
+momma s special marinade,0.0,marinates,VBZ
+momma s special marinade,0.0,the,DT
+momma s special marinade,0.0,better,JJR
+momma s special marinade,0.0,it,PRP
+momma s special marinade,0.0,tastes,VBZ
+momma s special marinade,0.0,.,.
+momma s special marinade,1.0,This,DT
+momma s special marinade,1.0,recipe,NN
+momma s special marinade,1.0,was,VBD
+momma s special marinade,1.0,originally,RB
+momma s special marinade,1.0,for,IN
+momma s special marinade,1.0,salmon,NN
+momma s special marinade,1.0,",",","
+momma s special marinade,1.0,but,CC
+momma s special marinade,1.0,I,PRP
+momma s special marinade,1.0,think,VBP
+momma s special marinade,1.0,it,PRP
+momma s special marinade,1.0,can,MD
+momma s special marinade,1.0,be,VB
+momma s special marinade,1.0,used,VBN
+momma s special marinade,1.0,universally,RB
+momma s special marinade,1.0,.,.
+momma s special marinade,2.0,I,PRP
+momma s special marinade,2.0,'ve,VB
+momma s special marinade,2.0,also,RB
+momma s special marinade,2.0,used,VBN
+momma s special marinade,2.0,this,DT
+momma s special marinade,2.0,same,JJ
+momma s special marinade,2.0,recipe,NN
+momma s special marinade,2.0,for,IN
+momma s special marinade,2.0,steak,NN
+momma s special marinade,2.0,and,CC
+momma s special marinade,2.0,chicken,NN
+momma s special marinade,2.0,.,.
+momma s special marinade,3.0,It,PRP
+momma s special marinade,3.0,is,VBZ
+momma s special marinade,3.0,wonderful,JJ
+momma s special marinade,3.0,.,.
+more more apple pear jigglers,0.0,In,IN
+more more apple pear jigglers,0.0,a,DT
+more more apple pear jigglers,0.0,food,NN
+more more apple pear jigglers,0.0,processor,NN
+more more apple pear jigglers,0.0,or,CC
+more more apple pear jigglers,0.0,blender,NN
+more more apple pear jigglers,0.0,",",","
+more more apple pear jigglers,0.0,process,VB
+more more apple pear jigglers,0.0,the,DT
+more more apple pear jigglers,0.0,gelatin,NN
+more more apple pear jigglers,0.0,and,CC
+more more apple pear jigglers,0.0,milk,NN
+more more apple pear jigglers,0.0,for,IN
+more more apple pear jigglers,0.0,30,CD
+more more apple pear jigglers,0.0,seconds,NNS
+more more apple pear jigglers,0.0,or,CC
+more more apple pear jigglers,0.0,until,IN
+more more apple pear jigglers,0.0,gelatin,NN
+more more apple pear jigglers,0.0,is,VBZ
+more more apple pear jigglers,0.0,disolved,VBN
+more more apple pear jigglers,0.0,and,CC
+more more apple pear jigglers,0.0,mixture,NN
+more more apple pear jigglers,0.0,is,VBZ
+more more apple pear jigglers,0.0,smooth,JJ
+more more apple pear jigglers,0.0,.,.
+more more apple pear jigglers,1.0,Add,VB
+more more apple pear jigglers,1.0,the,DT
+more more apple pear jigglers,1.0,cream,NN
+more more apple pear jigglers,1.0,cheese,NN
+more more apple pear jigglers,1.0,and,CC
+more more apple pear jigglers,1.0,yogurt,NN
+more more apple pear jigglers,1.0,and,CC
+more more apple pear jigglers,1.0,process,NN
+more more apple pear jigglers,1.0,for,IN
+more more apple pear jigglers,1.0,10,CD
+more more apple pear jigglers,1.0,seconds,NNS
+more more apple pear jigglers,1.0,.,.
+more more apple pear jigglers,2.0,Add,VB
+more more apple pear jigglers,2.0,the,DT
+more more apple pear jigglers,2.0,fruits,NNS
+more more apple pear jigglers,2.0,and,CC
+more more apple pear jigglers,2.0,blend,NN
+more more apple pear jigglers,2.0,until,IN
+more more apple pear jigglers,2.0,thoroughly,RB
+more more apple pear jigglers,2.0,puréed,VBN
+more more apple pear jigglers,2.0,.,.
+more more apple pear jigglers,3.0,(,-LRB-
+more more apple pear jigglers,3.0,Be,VB
+more more apple pear jigglers,3.0,careful,JJ
+more more apple pear jigglers,3.0,not,RB
+more more apple pear jigglers,3.0,to,TO
+more more apple pear jigglers,3.0,over,IN
+more more apple pear jigglers,3.0,blend,NN
+more more apple pear jigglers,3.0,or,CC
+more more apple pear jigglers,3.0,the,DT
+more more apple pear jigglers,3.0,mixture,NN
+more more apple pear jigglers,3.0,may,MD
+more more apple pear jigglers,3.0,become,VB
+more more apple pear jigglers,3.0,foamy,NN
+more more apple pear jigglers,3.0,.,.
+more more apple pear jigglers,3.0,),-RRB-
+more more apple pear jigglers,3.0,Spray,VB
+more more apple pear jigglers,3.0,an,DT
+more more apple pear jigglers,3.0,8-inch,CD
+more more apple pear jigglers,3.0,square,JJ
+more more apple pear jigglers,3.0,baking,NN
+more more apple pear jigglers,3.0,pan,NN
+more more apple pear jigglers,3.0,with,IN
+more more apple pear jigglers,3.0,nonstick,JJ
+more more apple pear jigglers,3.0,spray,NN
+more more apple pear jigglers,3.0,.,.
+more more apple pear jigglers,4.0,Pour,VB
+more more apple pear jigglers,4.0,gelatin,NN
+more more apple pear jigglers,4.0,mixture,NN
+more more apple pear jigglers,4.0,into,IN
+more more apple pear jigglers,4.0,pan,NN
+more more apple pear jigglers,4.0,and,CC
+more more apple pear jigglers,4.0,chill,VB
+more more apple pear jigglers,4.0,until,IN
+more more apple pear jigglers,4.0,firm,NN
+more more apple pear jigglers,4.0,.,.
+more more apple pear jigglers,5.0,Once,RB
+more more apple pear jigglers,5.0,chilled,VBN
+more more apple pear jigglers,5.0,",",","
+more more apple pear jigglers,5.0,cut,VBN
+more more apple pear jigglers,5.0,into,IN
+more more apple pear jigglers,5.0,squares,NNS
+more more apple pear jigglers,5.0,or,CC
+more more apple pear jigglers,5.0,creative,JJ
+more more apple pear jigglers,5.0,shapes,NNS
+more more apple pear jigglers,5.0,using,VBG
+more more apple pear jigglers,5.0,cookie,NN
+more more apple pear jigglers,5.0,cutters,NNS
+more more apple pear jigglers,5.0,and,CC
+more more apple pear jigglers,5.0,serve,VB
+more more apple pear jigglers,5.0,.,.
+mr grant you took half veal prince orloff,0.0,Preheat,VB
+mr grant you took half veal prince orloff,0.0,oven,NN
+mr grant you took half veal prince orloff,0.0,to,IN
+mr grant you took half veal prince orloff,0.0,325,CD
+mr grant you took half veal prince orloff,0.0,.,.
+mr grant you took half veal prince orloff,1.0,Dry,VB
+mr grant you took half veal prince orloff,1.0,the,DT
+mr grant you took half veal prince orloff,1.0,veal,NN
+mr grant you took half veal prince orloff,1.0,on,IN
+mr grant you took half veal prince orloff,1.0,paper,NN
+mr grant you took half veal prince orloff,1.0,towels,NNS
+mr grant you took half veal prince orloff,1.0,.,.
+mr grant you took half veal prince orloff,2.0,Place,NN
+mr grant you took half veal prince orloff,2.0,in,IN
+mr grant you took half veal prince orloff,2.0,a,DT
+mr grant you took half veal prince orloff,2.0,heavy,JJ
+mr grant you took half veal prince orloff,2.0,casserole,NN
+mr grant you took half veal prince orloff,2.0,just,RB
+mr grant you took half veal prince orloff,2.0,large,JJ
+mr grant you took half veal prince orloff,2.0,enough,RB
+mr grant you took half veal prince orloff,2.0,to,TO
+mr grant you took half veal prince orloff,2.0,hold,VB
+mr grant you took half veal prince orloff,2.0,the,DT
+mr grant you took half veal prince orloff,2.0,veal,NN
+mr grant you took half veal prince orloff,2.0,easily,RB
+mr grant you took half veal prince orloff,2.0,.,.
+mr grant you took half veal prince orloff,3.0,Place,VB
+mr grant you took half veal prince orloff,3.0,the,DT
+mr grant you took half veal prince orloff,3.0,casserole,NN
+mr grant you took half veal prince orloff,3.0,over,IN
+mr grant you took half veal prince orloff,3.0,moderately,RB
+mr grant you took half veal prince orloff,3.0,high,JJ
+mr grant you took half veal prince orloff,3.0,heat,NN
+mr grant you took half veal prince orloff,3.0,with,IN
+mr grant you took half veal prince orloff,3.0,the,DT
+mr grant you took half veal prince orloff,3.0,butter,NN
+mr grant you took half veal prince orloff,3.0,and,CC
+mr grant you took half veal prince orloff,3.0,oil,NN
+mr grant you took half veal prince orloff,3.0,.,.
+mr grant you took half veal prince orloff,4.0,When,WRB
+mr grant you took half veal prince orloff,4.0,you,PRP
+mr grant you took half veal prince orloff,4.0,see,VBP
+mr grant you took half veal prince orloff,4.0,the,DT
+mr grant you took half veal prince orloff,4.0,butter,NN
+mr grant you took half veal prince orloff,4.0,foam,NN
+mr grant you took half veal prince orloff,4.0,begin,VBP
+mr grant you took half veal prince orloff,4.0,to,TO
+mr grant you took half veal prince orloff,4.0,subside,VB
+mr grant you took half veal prince orloff,4.0,",",","
+mr grant you took half veal prince orloff,4.0,brown,VB
+mr grant you took half veal prince orloff,4.0,the,DT
+mr grant you took half veal prince orloff,4.0,veal,NN
+mr grant you took half veal prince orloff,4.0,lightly,RB
+mr grant you took half veal prince orloff,4.0,on,IN
+mr grant you took half veal prince orloff,4.0,all,DT
+mr grant you took half veal prince orloff,4.0,sides,NNS
+mr grant you took half veal prince orloff,4.0,;,:
+mr grant you took half veal prince orloff,4.0,this,DT
+mr grant you took half veal prince orloff,4.0,takes,VBZ
+mr grant you took half veal prince orloff,4.0,10,CD
+mr grant you took half veal prince orloff,4.0,to,TO
+mr grant you took half veal prince orloff,4.0,15,CD
+mr grant you took half veal prince orloff,4.0,minutes,NNS
+mr grant you took half veal prince orloff,4.0,.,.
+mr grant you took half veal prince orloff,5.0,Remove,VB
+mr grant you took half veal prince orloff,5.0,the,DT
+mr grant you took half veal prince orloff,5.0,veal,NN
+mr grant you took half veal prince orloff,5.0,.,.
+mr grant you took half veal prince orloff,6.0,If,IN
+mr grant you took half veal prince orloff,6.0,the,DT
+mr grant you took half veal prince orloff,6.0,browning,NN
+mr grant you took half veal prince orloff,6.0,fat,NN
+mr grant you took half veal prince orloff,6.0,has,VBZ
+mr grant you took half veal prince orloff,6.0,burned,VBN
+mr grant you took half veal prince orloff,6.0,",",","
+mr grant you took half veal prince orloff,6.0,pour,VB
+mr grant you took half veal prince orloff,6.0,it,PRP
+mr grant you took half veal prince orloff,6.0,out,RP
+mr grant you took half veal prince orloff,6.0,and,CC
+mr grant you took half veal prince orloff,6.0,add,VB
+mr grant you took half veal prince orloff,6.0,butter,NN
+mr grant you took half veal prince orloff,6.0,.,.
+mr grant you took half veal prince orloff,7.0,Stir,VB
+mr grant you took half veal prince orloff,7.0,in,IN
+mr grant you took half veal prince orloff,7.0,the,DT
+mr grant you took half veal prince orloff,7.0,vegetables,NNS
+mr grant you took half veal prince orloff,7.0,and,CC
+mr grant you took half veal prince orloff,7.0,herb,NN
+mr grant you took half veal prince orloff,7.0,bouquet,NN
+mr grant you took half veal prince orloff,7.0,",",","
+mr grant you took half veal prince orloff,7.0,cover,VB
+mr grant you took half veal prince orloff,7.0,and,CC
+mr grant you took half veal prince orloff,7.0,cook,VB
+mr grant you took half veal prince orloff,7.0,over,IN
+mr grant you took half veal prince orloff,7.0,low,JJ
+mr grant you took half veal prince orloff,7.0,heat,NN
+mr grant you took half veal prince orloff,7.0,for,IN
+mr grant you took half veal prince orloff,7.0,5,CD
+mr grant you took half veal prince orloff,7.0,minutes,NNS
+mr grant you took half veal prince orloff,7.0,with,IN
+mr grant you took half veal prince orloff,7.0,out,RP
+mr grant you took half veal prince orloff,7.0,browning,NN
+mr grant you took half veal prince orloff,7.0,.,.
+mr grant you took half veal prince orloff,8.0,Sprinkle,VB
+mr grant you took half veal prince orloff,8.0,salt,NN
+mr grant you took half veal prince orloff,8.0,and,CC
+mr grant you took half veal prince orloff,8.0,pepper,NN
+mr grant you took half veal prince orloff,8.0,over,IN
+mr grant you took half veal prince orloff,8.0,the,DT
+mr grant you took half veal prince orloff,8.0,veal,NN
+mr grant you took half veal prince orloff,8.0,.,.
+mr grant you took half veal prince orloff,9.0,Return,VB
+mr grant you took half veal prince orloff,9.0,it,PRP
+mr grant you took half veal prince orloff,9.0,to,IN
+mr grant you took half veal prince orloff,9.0,the,DT
+mr grant you took half veal prince orloff,9.0,casserole,NN
+mr grant you took half veal prince orloff,9.0,and,CC
+mr grant you took half veal prince orloff,9.0,baste,VB
+mr grant you took half veal prince orloff,9.0,with,IN
+mr grant you took half veal prince orloff,9.0,the,DT
+mr grant you took half veal prince orloff,9.0,butter,NN
+mr grant you took half veal prince orloff,9.0,in,IN
+mr grant you took half veal prince orloff,9.0,the,DT
+mr grant you took half veal prince orloff,9.0,casserole,NN
+mr grant you took half veal prince orloff,9.0,.,.
+mr grant you took half veal prince orloff,10.0,Insert,JJ
+mr grant you took half veal prince orloff,10.0,meat,NN
+mr grant you took half veal prince orloff,10.0,thermometer,NN
+mr grant you took half veal prince orloff,10.0,.,.
+mr grant you took half veal prince orloff,11.0,Lay,VB
+mr grant you took half veal prince orloff,11.0,the,DT
+mr grant you took half veal prince orloff,11.0,blanched,VBN
+mr grant you took half veal prince orloff,11.0,bacon,NN
+mr grant you took half veal prince orloff,11.0,over,IN
+mr grant you took half veal prince orloff,11.0,the,DT
+mr grant you took half veal prince orloff,11.0,meat,NN
+mr grant you took half veal prince orloff,11.0,",",","
+mr grant you took half veal prince orloff,11.0,then,RB
+mr grant you took half veal prince orloff,11.0,cover,VB
+mr grant you took half veal prince orloff,11.0,with,IN
+mr grant you took half veal prince orloff,11.0,foil,NN
+mr grant you took half veal prince orloff,11.0,.,.
+mr grant you took half veal prince orloff,12.0,Cover,VB
+mr grant you took half veal prince orloff,12.0,the,DT
+mr grant you took half veal prince orloff,12.0,casserole,NN
+mr grant you took half veal prince orloff,12.0,and,CC
+mr grant you took half veal prince orloff,12.0,set,VBN
+mr grant you took half veal prince orloff,12.0,in,RP
+mr grant you took half veal prince orloff,12.0,lower,JJR
+mr grant you took half veal prince orloff,12.0,third,NN
+mr grant you took half veal prince orloff,12.0,of,IN
+mr grant you took half veal prince orloff,12.0,preheated,JJ
+mr grant you took half veal prince orloff,12.0,oven,NN
+mr grant you took half veal prince orloff,12.0,.,.
+mr grant you took half veal prince orloff,13.0,Regulate,VB
+mr grant you took half veal prince orloff,13.0,heat,NN
+mr grant you took half veal prince orloff,13.0,so,IN
+mr grant you took half veal prince orloff,13.0,meat,NN
+mr grant you took half veal prince orloff,13.0,cooks,NNS
+mr grant you took half veal prince orloff,13.0,slowly,RB
+mr grant you took half veal prince orloff,13.0,and,CC
+mr grant you took half veal prince orloff,13.0,steadily,RB
+mr grant you took half veal prince orloff,13.0,for,IN
+mr grant you took half veal prince orloff,13.0,about,RB
+mr grant you took half veal prince orloff,13.0,1,CD
+mr grant you took half veal prince orloff,13.0,-,SYM
+mr grant you took half veal prince orloff,13.0,1/2,CD
+mr grant you took half veal prince orloff,13.0,hours,NNS
+mr grant you took half veal prince orloff,13.0,.,.
+mr grant you took half veal prince orloff,14.0,Baste,VB
+mr grant you took half veal prince orloff,14.0,it,PRP
+mr grant you took half veal prince orloff,14.0,2,CD
+mr grant you took half veal prince orloff,14.0,or,CC
+mr grant you took half veal prince orloff,14.0,3,CD
+mr grant you took half veal prince orloff,14.0,times,NNS
+mr grant you took half veal prince orloff,14.0,with,IN
+mr grant you took half veal prince orloff,14.0,the,DT
+mr grant you took half veal prince orloff,14.0,juices,NNS
+mr grant you took half veal prince orloff,14.0,in,IN
+mr grant you took half veal prince orloff,14.0,the,DT
+mr grant you took half veal prince orloff,14.0,casserole,NN
+mr grant you took half veal prince orloff,14.0,.,.
+mr grant you took half veal prince orloff,15.0,The,DT
+mr grant you took half veal prince orloff,15.0,roast,NN
+mr grant you took half veal prince orloff,15.0,is,VBZ
+mr grant you took half veal prince orloff,15.0,done,VBN
+mr grant you took half veal prince orloff,15.0,at,IN
+mr grant you took half veal prince orloff,15.0,a,DT
+mr grant you took half veal prince orloff,15.0,thermometer,NN
+mr grant you took half veal prince orloff,15.0,reading,NN
+mr grant you took half veal prince orloff,15.0,of,IN
+mr grant you took half veal prince orloff,15.0,175,CD
+mr grant you took half veal prince orloff,15.0,degrees,NNS
+mr grant you took half veal prince orloff,15.0,",",","
+mr grant you took half veal prince orloff,15.0,or,CC
+mr grant you took half veal prince orloff,15.0,as,RB
+mr grant you took half veal prince orloff,15.0,soon,RB
+mr grant you took half veal prince orloff,15.0,as,IN
+mr grant you took half veal prince orloff,15.0,it,PRP
+mr grant you took half veal prince orloff,15.0,'s,VBZ
+mr grant you took half veal prince orloff,15.0,juices,NNS
+mr grant you took half veal prince orloff,15.0,run,VBP
+mr grant you took half veal prince orloff,15.0,clear,JJ
+mr grant you took half veal prince orloff,15.0,yellow,NN
+mr grant you took half veal prince orloff,15.0,when,WRB
+mr grant you took half veal prince orloff,15.0,the,DT
+mr grant you took half veal prince orloff,15.0,meat,NN
+mr grant you took half veal prince orloff,15.0,is,VBZ
+mr grant you took half veal prince orloff,15.0,pricked,VBN
+mr grant you took half veal prince orloff,15.0,deeply,RB
+mr grant you took half veal prince orloff,15.0,with,IN
+mr grant you took half veal prince orloff,15.0,a,DT
+mr grant you took half veal prince orloff,15.0,fork,NN
+mr grant you took half veal prince orloff,15.0,.,.
+mr grant you took half veal prince orloff,16.0,Place,VB
+mr grant you took half veal prince orloff,16.0,the,DT
+mr grant you took half veal prince orloff,16.0,veal,NN
+mr grant you took half veal prince orloff,16.0,on,IN
+mr grant you took half veal prince orloff,16.0,a,DT
+mr grant you took half veal prince orloff,16.0,hot,JJ
+mr grant you took half veal prince orloff,16.0,platter,NN
+mr grant you took half veal prince orloff,16.0,and,CC
+mr grant you took half veal prince orloff,16.0,discard,VB
+mr grant you took half veal prince orloff,16.0,trussing,NN
+mr grant you took half veal prince orloff,16.0,strings,NNS
+mr grant you took half veal prince orloff,16.0,.,.
+mr grant you took half veal prince orloff,17.0,The,DT
+mr grant you took half veal prince orloff,17.0,veal,NN
+mr grant you took half veal prince orloff,17.0,and,CC
+mr grant you took half veal prince orloff,17.0,vegetables,NNS
+mr grant you took half veal prince orloff,17.0,will,MD
+mr grant you took half veal prince orloff,17.0,have,VB
+mr grant you took half veal prince orloff,17.0,produced,VBN
+mr grant you took half veal prince orloff,17.0,a,DT
+mr grant you took half veal prince orloff,17.0,cup,NN
+mr grant you took half veal prince orloff,17.0,or,CC
+mr grant you took half veal prince orloff,17.0,more,JJR
+mr grant you took half veal prince orloff,17.0,of,IN
+mr grant you took half veal prince orloff,17.0,juice,NN
+mr grant you took half veal prince orloff,17.0,in,IN
+mr grant you took half veal prince orloff,17.0,the,DT
+mr grant you took half veal prince orloff,17.0,casserole,NN
+mr grant you took half veal prince orloff,17.0,.,.
+mr grant you took half veal prince orloff,18.0,Remove,VB
+mr grant you took half veal prince orloff,18.0,all,DT
+mr grant you took half veal prince orloff,18.0,but,IN
+mr grant you took half veal prince orloff,18.0,2,CD
+mr grant you took half veal prince orloff,18.0,tablespoons,NNS
+mr grant you took half veal prince orloff,18.0,of,IN
+mr grant you took half veal prince orloff,18.0,fat,NN
+mr grant you took half veal prince orloff,18.0,from,IN
+mr grant you took half veal prince orloff,18.0,them,PRP
+mr grant you took half veal prince orloff,18.0,.,.
+mr grant you took half veal prince orloff,19.0,Set,VBN
+mr grant you took half veal prince orloff,19.0,casserole,NN
+mr grant you took half veal prince orloff,19.0,over,IN
+mr grant you took half veal prince orloff,19.0,moderate,JJ
+mr grant you took half veal prince orloff,19.0,heat,NN
+mr grant you took half veal prince orloff,19.0,while,IN
+mr grant you took half veal prince orloff,19.0,scraping,VBG
+mr grant you took half veal prince orloff,19.0,up,RP
+mr grant you took half veal prince orloff,19.0,any,DT
+mr grant you took half veal prince orloff,19.0,coagulated,VBN
+mr grant you took half veal prince orloff,19.0,cooking,NN
+mr grant you took half veal prince orloff,19.0,juices,NNS
+mr grant you took half veal prince orloff,19.0,from,IN
+mr grant you took half veal prince orloff,19.0,the,DT
+mr grant you took half veal prince orloff,19.0,bottom,NN
+mr grant you took half veal prince orloff,19.0,and,CC
+mr grant you took half veal prince orloff,19.0,sides,NNS
+mr grant you took half veal prince orloff,19.0,with,IN
+mr grant you took half veal prince orloff,19.0,a,DT
+mr grant you took half veal prince orloff,19.0,wooden,JJ
+mr grant you took half veal prince orloff,19.0,spoon,NN
+mr grant you took half veal prince orloff,19.0,",",","
+mr grant you took half veal prince orloff,19.0,and,CC
+mr grant you took half veal prince orloff,19.0,mashing,VBG
+mr grant you took half veal prince orloff,19.0,the,DT
+mr grant you took half veal prince orloff,19.0,vegetables,NNS
+mr grant you took half veal prince orloff,19.0,into,IN
+mr grant you took half veal prince orloff,19.0,the,DT
+mr grant you took half veal prince orloff,19.0,liquid,NN
+mr grant you took half veal prince orloff,19.0,.,.
+mr grant you took half veal prince orloff,20.0,Boil,VB
+mr grant you took half veal prince orloff,20.0,down,RP
+mr grant you took half veal prince orloff,20.0,rapidly,RB
+mr grant you took half veal prince orloff,20.0,if,IN
+mr grant you took half veal prince orloff,20.0,necessary,JJ
+mr grant you took half veal prince orloff,20.0,;,:
+mr grant you took half veal prince orloff,20.0,you,PRP
+mr grant you took half veal prince orloff,20.0,should,MD
+mr grant you took half veal prince orloff,20.0,have,VB
+mr grant you took half veal prince orloff,20.0,3/4,CD
+mr grant you took half veal prince orloff,20.0,to,IN
+mr grant you took half veal prince orloff,20.0,1,CD
+mr grant you took half veal prince orloff,20.0,cup,NN
+mr grant you took half veal prince orloff,20.0,.,.
+mr grant you took half veal prince orloff,21.0,Correct,JJ
+mr grant you took half veal prince orloff,21.0,seasoning,NN
+mr grant you took half veal prince orloff,21.0,",",","
+mr grant you took half veal prince orloff,21.0,and,CC
+mr grant you took half veal prince orloff,21.0,strain,VB
+mr grant you took half veal prince orloff,21.0,into,IN
+mr grant you took half veal prince orloff,21.0,a,DT
+mr grant you took half veal prince orloff,21.0,hot,JJ
+mr grant you took half veal prince orloff,21.0,gravy,NN
+mr grant you took half veal prince orloff,21.0,boat,NN
+mr grant you took half veal prince orloff,21.0,.,.
+mr grant you took half veal prince orloff,22.0,Garnish,VB
+mr grant you took half veal prince orloff,22.0,the,DT
+mr grant you took half veal prince orloff,22.0,meat,NN
+mr grant you took half veal prince orloff,22.0,platter,NN
+mr grant you took half veal prince orloff,22.0,with,IN
+mr grant you took half veal prince orloff,22.0,whatever,WDT
+mr grant you took half veal prince orloff,22.0,vegetables,NNS
+mr grant you took half veal prince orloff,22.0,you,PRP
+mr grant you took half veal prince orloff,22.0,have,VBP
+mr grant you took half veal prince orloff,22.0,chosen,VBN
+mr grant you took half veal prince orloff,22.0,",",","
+mr grant you took half veal prince orloff,22.0,and,CC
+mr grant you took half veal prince orloff,22.0,serve,VB
+mr grant you took half veal prince orloff,22.0,.,.
+mr grant you took half veal prince orloff,23.0,If,IN
+mr grant you took half veal prince orloff,23.0,you,PRP
+mr grant you took half veal prince orloff,23.0,are,VBP
+mr grant you took half veal prince orloff,23.0,not,RB
+mr grant you took half veal prince orloff,23.0,serving,VBG
+mr grant you took half veal prince orloff,23.0,immediately,RB
+mr grant you took half veal prince orloff,23.0,",",","
+mr grant you took half veal prince orloff,23.0,return,VB
+mr grant you took half veal prince orloff,23.0,the,DT
+mr grant you took half veal prince orloff,23.0,veal,NN
+mr grant you took half veal prince orloff,23.0,and,CC
+mr grant you took half veal prince orloff,23.0,sauce,NN
+mr grant you took half veal prince orloff,23.0,to,IN
+mr grant you took half veal prince orloff,23.0,the,DT
+mr grant you took half veal prince orloff,23.0,casserole,NN
+mr grant you took half veal prince orloff,23.0,",",","
+mr grant you took half veal prince orloff,23.0,cover,NN
+mr grant you took half veal prince orloff,23.0,partially,RB
+mr grant you took half veal prince orloff,23.0,",",","
+mr grant you took half veal prince orloff,23.0,and,CC
+mr grant you took half veal prince orloff,23.0,set,VBN
+mr grant you took half veal prince orloff,23.0,in,IN
+mr grant you took half veal prince orloff,23.0,a,DT
+mr grant you took half veal prince orloff,23.0,turned,VBN
+mr grant you took half veal prince orloff,23.0,-,HYPH
+mr grant you took half veal prince orloff,23.0,off,RP
+mr grant you took half veal prince orloff,23.0,hot,JJ
+mr grant you took half veal prince orloff,23.0,oven,NN
+mr grant you took half veal prince orloff,23.0,where,WRB
+mr grant you took half veal prince orloff,23.0,it,PRP
+mr grant you took half veal prince orloff,23.0,will,MD
+mr grant you took half veal prince orloff,23.0,stay,VB
+mr grant you took half veal prince orloff,23.0,warm,JJ
+mr grant you took half veal prince orloff,23.0,for,IN
+mr grant you took half veal prince orloff,23.0,half,PDT
+mr grant you took half veal prince orloff,23.0,an,DT
+mr grant you took half veal prince orloff,23.0,hour,NN
+mr grant you took half veal prince orloff,23.0,at,IN
+mr grant you took half veal prince orloff,23.0,least,JJS
+mr grant you took half veal prince orloff,23.0,.,.
